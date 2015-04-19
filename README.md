@@ -1,8 +1,7 @@
 GBS Manager
 ===========
 
-** This is alpha code, under heavy development. Use it like you'd use
-   `rm -rf`.**
+**This is alpha code, under heavy development. Use it like you'd use `rm -rf`.**
 
 Scripts and pipelines to analyse reduced representation sequencing, including
 automated job preparation and submission.
@@ -25,3 +24,9 @@ Implementation progress
 - [ ] Demultiplexing
 - [ ] Sequence Analysis
 - [ ] Post analysis and result archiving
+
+License
+-------
+
+GBSman is licensed under the GNU GPL version 3 or (at your option) any later
+version.

@@ -10,10 +10,10 @@ Built with python, jinja2 and doit.
 
 Under the hood, it runs:
 
-1: FastQC
-2: Axe
-3: scythe and sickle, OR trimmomatic
-4: Tassel (bwa pipeline), OR UNEAK, OR {p,u}Stacks
+1. FastQC
+2. Axe
+3. scythe and sickle, OR trimmomatic
+4. Tassel (bwa pipeline), OR UNEAK, OR {p,u}Stacks
 
 Implementation progress
 -----------------------

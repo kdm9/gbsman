@@ -1,0 +1,10454 @@
+{
+ "PstIAdapterPlate11": {
+  "E": {
+   "1": [
+    "CTATTA",
+    "CTTGCTT"
+   ],
+   "2": [
+    "GCCAGT",
+    "CTTGCTT"
+   ],
+   "3": [
+    "GGAAGA",
+    "CTTGCTT"
+   ],
+   "4": [
+    "GTACTT",
+    "CTTGCTT"
+   ],
+   "5": [
+    "GTTGAA",
+    "CTTGCTT"
+   ],
+   "6": [
+    "TAACGA",
+    "CTTGCTT"
+   ],
+   "7": [
+    "TGGCTA",
+    "CTTGCTT"
+   ],
+   "8": [
+    "TATTTTT",
+    "CTTGCTT"
+   ],
+   "9": [
+    "CTTGCTT",
+    "CTTGCTT"
+   ],
+   "10": [
+    "ATGAAAG",
+    "CTTGCTT"
+   ],
+   "11": [
+    "AAAAGTT",
+    "CTTGCTT"
+   ],
+   "12": [
+    "GAATTCA",
+    "CTTGCTT"
+   ]
+  },
+  "G": {
+   "1": [
+    "GCGGAAT",
+    "TTCAGA"
+   ],
+   "2": [
+    "TAGCGGA",
+    "TTCAGA"
+   ],
+   "3": [
+    "TCGAAGA",
+    "TTCAGA"
+   ],
+   "4": [
+    "TCTGTGA",
+    "TTCAGA"
+   ],
+   "5": [
+    "TGCTGGA",
+    "TTCAGA"
+   ],
+   "6": [
+    "ACGACTAG",
+    "TTCAGA"
+   ],
+   "7": [
+    "TAGCATGG",
+    "TTCAGA"
+   ],
+   "8": [
+    "TAGGCCAT",
+    "TTCAGA"
+   ],
+   "9": [
+    "TGCAAGGA",
+    "TTCAGA"
+   ],
+   "10": [
+    "TGGTACGT",
+    "TTCAGA"
+   ],
+   "11": [
+    "TCTCAGTG",
+    "TTCAGA"
+   ],
+   "12": [
+    "CCGGATAT",
+    "TTCAGA"
+   ]
+  },
+  "F": {
+   "1": [
+    "GAACTTG",
+    "CTTGCTT"
+   ],
+   "2": [
+    "GGACCTA",
+    "CTTGCTT"
+   ],
+   "3": [
+    "GTCGATT",
+    "CTTGCTT"
+   ],
+   "4": [
+    "AACGCCT",
+    "CTTGCTT"
+   ],
+   "5": [
+    "AATATGG",
+    "CTTGCTT"
+   ],
+   "6": [
+    "ACGTGTT",
+    "CTTGCTT"
+   ],
+   "7": [
+    "ATTAATT",
+    "CTTGCTT"
+   ],
+   "8": [
+    "ATTGGAT",
+    "CTTGCTT"
+   ],
+   "9": [
+    "CATAAGT",
+    "CTTGCTT"
+   ],
+   "10": [
+    "CGCTGAT",
+    "CTTGCTT"
+   ],
+   "11": [
+    "CGGTAGA",
+    "CTTGCTT"
+   ],
+   "12": [
+    "CTACGGA",
+    "CTTGCTT"
+   ]
+  },
+  "B": {
+   "1": [
+    "CGCTT",
+    "TCACG"
+   ],
+   "2": [
+    "TCACG",
+    "TCACG"
+   ],
+   "3": [
+    "CTAGG",
+    "TCACG"
+   ],
+   "4": [
+    "ACAAA",
+    "TCACG"
+   ],
+   "5": [
+    "TTCTG",
+    "TCACG"
+   ],
+   "6": [
+    "AGCCG",
+    "TCACG"
+   ],
+   "7": [
+    "GTATT",
+    "TCACG"
+   ],
+   "8": [
+    "CTGTA",
+    "TCACG"
+   ],
+   "9": [
+    "ACCGT",
+    "TCACG"
+   ],
+   "10": [
+    "GCTTA",
+    "TCACG"
+   ],
+   "11": [
+    "GGTGT",
+    "TCACG"
+   ],
+   "12": [
+    "AGGAT",
+    "TCACG"
+   ]
+  },
+  "C": {
+   "1": [
+    "ATTGA",
+    "GCGT"
+   ],
+   "2": [
+    "CATCT",
+    "GCGT"
+   ],
+   "3": [
+    "CCTAG",
+    "GCGT"
+   ],
+   "4": [
+    "GAGGA",
+    "GCGT"
+   ],
+   "5": [
+    "GGAAG",
+    "GCGT"
+   ],
+   "6": [
+    "GTCAA",
+    "GCGT"
+   ],
+   "7": [
+    "TAATA",
+    "GCGT"
+   ],
+   "8": [
+    "TACAT",
+    "GCGT"
+   ],
+   "9": [
+    "TCGTT",
+    "GCGT"
+   ],
+   "10": [
+    "GGTTGT",
+    "GCGT"
+   ],
+   "11": [
+    "CCAGCT",
+    "GCGT"
+   ],
+   "12": [
+    "TTCAGA",
+    "GCGT"
+   ]
+  },
+  "A": {
+   "1": [
+    "CTCG",
+    "TCACG"
+   ],
+   "2": [
+    "TGCA",
+    "TCACG"
+   ],
+   "3": [
+    "ACTA",
+    "TCACG"
+   ],
+   "4": [
+    "CAGA",
+    "TCACG"
+   ],
+   "5": [
+    "AACT",
+    "TCACG"
+   ],
+   "6": [
+    "GCGT",
+    "TCACG"
+   ],
+   "7": [
+    "CGAT",
+    "TCACG"
+   ],
+   "8": [
+    "GTAA",
+    "TCACG"
+   ],
+   "9": [
+    "AGGG",
+    "TCACG"
+   ],
+   "10": [
+    "GATG",
+    "TCACG"
+   ],
+   "11": [
+    "TCAG",
+    "TCACG"
+   ],
+   "12": [
+    "TGCG",
+    "TCACG"
+   ]
+  },
+  "D": {
+   "1": [
+    "TAGGAA",
+    "GCGT"
+   ],
+   "2": [
+    "GCTCTA",
+    "GCGT"
+   ],
+   "3": [
+    "CCACAA",
+    "GCGT"
+   ],
+   "4": [
+    "CTTCCA",
+    "GCGT"
+   ],
+   "5": [
+    "GAGATA",
+    "GCGT"
+   ],
+   "6": [
+    "ATGCCT",
+    "GCGT"
+   ],
+   "7": [
+    "AGTGGA",
+    "GCGT"
+   ],
+   "8": [
+    "ACCTAA",
+    "GCGT"
+   ],
+   "9": [
+    "ATATGT",
+    "GCGT"
+   ],
+   "10": [
+    "ATCGTA",
+    "GCGT"
+   ],
+   "11": [
+    "CATCGT",
+    "GCGT"
+   ],
+   "12": [
+    "CGCGGT",
+    "GCGT"
+   ]
+  },
+  "H": {
+   "1": [
+    "CGCCTTAT",
+    "TTCAGA"
+   ],
+   "2": [
+    "AACCGAGA",
+    "TTCAGA"
+   ],
+   "3": [
+    "ACAGGGAA",
+    "TTCAGA"
+   ],
+   "4": [
+    "ACGTGGTA",
+    "TTCAGA"
+   ],
+   "5": [
+    "CCATGGGT",
+    "TTCAGA"
+   ],
+   "6": [
+    "CGCGGAGA",
+    "TTCAGA"
+   ],
+   "7": [
+    "CGTGTGGT",
+    "TTCAGA"
+   ],
+   "8": [
+    "GCTGTGGA",
+    "TTCAGA"
+   ],
+   "9": [
+    "GGATTGGT",
+    "TTCAGA"
+   ],
+   "10": [
+    "GTGAGGGT",
+    "TTCAGA"
+   ],
+   "11": [
+    "TATCGGGA",
+    "TTCAGA"
+   ],
+   "12": [
+    "TTCCTGGA",
+    "TTCAGA"
+   ]
+  }
+ },
+ "PstIAdapterPlate1": {
+  "E": {
+   "1": [
+    "CTATTA",
+    "TGCGA"
+   ],
+   "2": [
+    "GCCAGT",
+    "TGCGA"
+   ],
+   "3": [
+    "GGAAGA",
+    "TGCGA"
+   ],
+   "4": [
+    "GTACTT",
+    "TGCGA"
+   ],
+   "5": [
+    "GTTGAA",
+    "TGCGA"
+   ],
+   "6": [
+    "TAACGA",
+    "TGCGA"
+   ],
+   "7": [
+    "TGGCTA",
+    "TGCGA"
+   ],
+   "8": [
+    "TATTTTT",
+    "TGCGA"
+   ],
+   "9": [
+    "CTTGCTT",
+    "TGCGA"
+   ],
+   "10": [
+    "ATGAAAG",
+    "TGCGA"
+   ],
+   "11": [
+    "AAAAGTT",
+    "TGCGA"
+   ],
+   "12": [
+    "GAATTCA",
+    "TGCGA"
+   ]
+  },
+  "G": {
+   "1": [
+    "GCGGAAT",
+    "GGTTGT"
+   ],
+   "2": [
+    "TAGCGGA",
+    "GGTTGT"
+   ],
+   "3": [
+    "TCGAAGA",
+    "GGTTGT"
+   ],
+   "4": [
+    "TCTGTGA",
+    "GGTTGT"
+   ],
+   "5": [
+    "TGCTGGA",
+    "GGTTGT"
+   ],
+   "6": [
+    "ACGACTAG",
+    "GGTTGT"
+   ],
+   "7": [
+    "TAGCATGG",
+    "GGTTGT"
+   ],
+   "8": [
+    "TAGGCCAT",
+    "GGTTGT"
+   ],
+   "9": [
+    "TGCAAGGA",
+    "GGTTGT"
+   ],
+   "10": [
+    "TGGTACGT",
+    "GGTTGT"
+   ],
+   "11": [
+    "TCTCAGTG",
+    "GGTTGT"
+   ],
+   "12": [
+    "CCGGATAT",
+    "GGTTGT"
+   ]
+  },
+  "F": {
+   "1": [
+    "GAACTTG",
+    "CGCTT"
+   ],
+   "2": [
+    "GGACCTA",
+    "CGCTT"
+   ],
+   "3": [
+    "GTCGATT",
+    "CGCTT"
+   ],
+   "4": [
+    "AACGCCT",
+    "CGCTT"
+   ],
+   "5": [
+    "AATATGG",
+    "CGCTT"
+   ],
+   "6": [
+    "ACGTGTT",
+    "CGCTT"
+   ],
+   "7": [
+    "ATTAATT",
+    "CGCTT"
+   ],
+   "8": [
+    "ATTGGAT",
+    "CGCTT"
+   ],
+   "9": [
+    "CATAAGT",
+    "CGCTT"
+   ],
+   "10": [
+    "CGCTGAT",
+    "CGCTT"
+   ],
+   "11": [
+    "CGGTAGA",
+    "CGCTT"
+   ],
+   "12": [
+    "CTACGGA",
+    "CGCTT"
+   ]
+  },
+  "B": {
+   "1": [
+    "CGCTT",
+    "CTCG"
+   ],
+   "2": [
+    "TCACG",
+    "CTCG"
+   ],
+   "3": [
+    "CTAGG",
+    "CTCG"
+   ],
+   "4": [
+    "ACAAA",
+    "CTCG"
+   ],
+   "5": [
+    "TTCTG",
+    "CTCG"
+   ],
+   "6": [
+    "AGCCG",
+    "CTCG"
+   ],
+   "7": [
+    "GTATT",
+    "CTCG"
+   ],
+   "8": [
+    "CTGTA",
+    "CTCG"
+   ],
+   "9": [
+    "ACCGT",
+    "CTCG"
+   ],
+   "10": [
+    "GCTTA",
+    "CTCG"
+   ],
+   "11": [
+    "GGTGT",
+    "CTCG"
+   ],
+   "12": [
+    "AGGAT",
+    "CTCG"
+   ]
+  },
+  "C": {
+   "1": [
+    "ATTGA",
+    "ACGACTAG"
+   ],
+   "2": [
+    "CATCT",
+    "ACGACTAG"
+   ],
+   "3": [
+    "CCTAG",
+    "ACGACTAG"
+   ],
+   "4": [
+    "GAGGA",
+    "ACGACTAG"
+   ],
+   "5": [
+    "GGAAG",
+    "ACGACTAG"
+   ],
+   "6": [
+    "GTCAA",
+    "ACGACTAG"
+   ],
+   "7": [
+    "TAATA",
+    "ACGACTAG"
+   ],
+   "8": [
+    "TACAT",
+    "ACGACTAG"
+   ],
+   "9": [
+    "TCGTT",
+    "ACGACTAG"
+   ],
+   "10": [
+    "GGTTGT",
+    "ACGACTAG"
+   ],
+   "11": [
+    "CCAGCT",
+    "ACGACTAG"
+   ],
+   "12": [
+    "TTCAGA",
+    "ACGACTAG"
+   ]
+  },
+  "A": {
+   "1": [
+    "CTCG",
+    "ATGAAAG"
+   ],
+   "2": [
+    "TGCA",
+    "ATGAAAG"
+   ],
+   "3": [
+    "ACTA",
+    "ATGAAAG"
+   ],
+   "4": [
+    "CAGA",
+    "ATGAAAG"
+   ],
+   "5": [
+    "AACT",
+    "ATGAAAG"
+   ],
+   "6": [
+    "GCGT",
+    "ATGAAAG"
+   ],
+   "7": [
+    "CGAT",
+    "ATGAAAG"
+   ],
+   "8": [
+    "GTAA",
+    "ATGAAAG"
+   ],
+   "9": [
+    "AGGG",
+    "ATGAAAG"
+   ],
+   "10": [
+    "GATG",
+    "ATGAAAG"
+   ],
+   "11": [
+    "TCAG",
+    "ATGAAAG"
+   ],
+   "12": [
+    "TGCG",
+    "ATGAAAG"
+   ]
+  },
+  "D": {
+   "1": [
+    "TAGGAA",
+    "ACTA"
+   ],
+   "2": [
+    "GCTCTA",
+    "ACTA"
+   ],
+   "3": [
+    "CCACAA",
+    "ACTA"
+   ],
+   "4": [
+    "CTTCCA",
+    "ACTA"
+   ],
+   "5": [
+    "GAGATA",
+    "ACTA"
+   ],
+   "6": [
+    "ATGCCT",
+    "ACTA"
+   ],
+   "7": [
+    "AGTGGA",
+    "ACTA"
+   ],
+   "8": [
+    "ACCTAA",
+    "ACTA"
+   ],
+   "9": [
+    "ATATGT",
+    "ACTA"
+   ],
+   "10": [
+    "ATCGTA",
+    "ACTA"
+   ],
+   "11": [
+    "CATCGT",
+    "ACTA"
+   ],
+   "12": [
+    "CGCGGT",
+    "ACTA"
+   ]
+  },
+  "H": {
+   "1": [
+    "CGCCTTAT",
+    "CCAGCT"
+   ],
+   "2": [
+    "AACCGAGA",
+    "CCAGCT"
+   ],
+   "3": [
+    "ACAGGGAA",
+    "CCAGCT"
+   ],
+   "4": [
+    "ACGTGGTA",
+    "CCAGCT"
+   ],
+   "5": [
+    "CCATGGGT",
+    "CCAGCT"
+   ],
+   "6": [
+    "CGCGGAGA",
+    "CCAGCT"
+   ],
+   "7": [
+    "CGTGTGGT",
+    "CCAGCT"
+   ],
+   "8": [
+    "GCTGTGGA",
+    "CCAGCT"
+   ],
+   "9": [
+    "GGATTGGT",
+    "CCAGCT"
+   ],
+   "10": [
+    "GTGAGGGT",
+    "CCAGCT"
+   ],
+   "11": [
+    "TATCGGGA",
+    "CCAGCT"
+   ],
+   "12": [
+    "TTCCTGGA",
+    "CCAGCT"
+   ]
+  }
+ },
+ "PstIAdapterPlate4": {
+  "E": {
+   "1": [
+    "CTATTA",
+    "CTCG"
+   ],
+   "2": [
+    "GCCAGT",
+    "CTCG"
+   ],
+   "3": [
+    "GGAAGA",
+    "CTCG"
+   ],
+   "4": [
+    "GTACTT",
+    "CTCG"
+   ],
+   "5": [
+    "GTTGAA",
+    "CTCG"
+   ],
+   "6": [
+    "TAACGA",
+    "CTCG"
+   ],
+   "7": [
+    "TGGCTA",
+    "CTCG"
+   ],
+   "8": [
+    "TATTTTT",
+    "CTCG"
+   ],
+   "9": [
+    "CTTGCTT",
+    "CTCG"
+   ],
+   "10": [
+    "ATGAAAG",
+    "CTCG"
+   ],
+   "11": [
+    "AAAAGTT",
+    "CTCG"
+   ],
+   "12": [
+    "GAATTCA",
+    "CTCG"
+   ]
+  },
+  "G": {
+   "1": [
+    "GCGGAAT",
+    "ACTA"
+   ],
+   "2": [
+    "TAGCGGA",
+    "ACTA"
+   ],
+   "3": [
+    "TCGAAGA",
+    "ACTA"
+   ],
+   "4": [
+    "TCTGTGA",
+    "ACTA"
+   ],
+   "5": [
+    "TGCTGGA",
+    "ACTA"
+   ],
+   "6": [
+    "ACGACTAG",
+    "ACTA"
+   ],
+   "7": [
+    "TAGCATGG",
+    "ACTA"
+   ],
+   "8": [
+    "TAGGCCAT",
+    "ACTA"
+   ],
+   "9": [
+    "TGCAAGGA",
+    "ACTA"
+   ],
+   "10": [
+    "TGGTACGT",
+    "ACTA"
+   ],
+   "11": [
+    "TCTCAGTG",
+    "ACTA"
+   ],
+   "12": [
+    "CCGGATAT",
+    "ACTA"
+   ]
+  },
+  "F": {
+   "1": [
+    "GAACTTG",
+    "ACGACTAG"
+   ],
+   "2": [
+    "GGACCTA",
+    "ACGACTAG"
+   ],
+   "3": [
+    "GTCGATT",
+    "ACGACTAG"
+   ],
+   "4": [
+    "AACGCCT",
+    "ACGACTAG"
+   ],
+   "5": [
+    "AATATGG",
+    "ACGACTAG"
+   ],
+   "6": [
+    "ACGTGTT",
+    "ACGACTAG"
+   ],
+   "7": [
+    "ATTAATT",
+    "ACGACTAG"
+   ],
+   "8": [
+    "ATTGGAT",
+    "ACGACTAG"
+   ],
+   "9": [
+    "CATAAGT",
+    "ACGACTAG"
+   ],
+   "10": [
+    "CGCTGAT",
+    "ACGACTAG"
+   ],
+   "11": [
+    "CGGTAGA",
+    "ACGACTAG"
+   ],
+   "12": [
+    "CTACGGA",
+    "ACGACTAG"
+   ]
+  },
+  "B": {
+   "1": [
+    "CGCTT",
+    "GGTTGT"
+   ],
+   "2": [
+    "TCACG",
+    "GGTTGT"
+   ],
+   "3": [
+    "CTAGG",
+    "GGTTGT"
+   ],
+   "4": [
+    "ACAAA",
+    "GGTTGT"
+   ],
+   "5": [
+    "TTCTG",
+    "GGTTGT"
+   ],
+   "6": [
+    "AGCCG",
+    "GGTTGT"
+   ],
+   "7": [
+    "GTATT",
+    "GGTTGT"
+   ],
+   "8": [
+    "CTGTA",
+    "GGTTGT"
+   ],
+   "9": [
+    "ACCGT",
+    "GGTTGT"
+   ],
+   "10": [
+    "GCTTA",
+    "GGTTGT"
+   ],
+   "11": [
+    "GGTGT",
+    "GGTTGT"
+   ],
+   "12": [
+    "AGGAT",
+    "GGTTGT"
+   ]
+  },
+  "C": {
+   "1": [
+    "ATTGA",
+    "CCAGCT"
+   ],
+   "2": [
+    "CATCT",
+    "CCAGCT"
+   ],
+   "3": [
+    "CCTAG",
+    "CCAGCT"
+   ],
+   "4": [
+    "GAGGA",
+    "CCAGCT"
+   ],
+   "5": [
+    "GGAAG",
+    "CCAGCT"
+   ],
+   "6": [
+    "GTCAA",
+    "CCAGCT"
+   ],
+   "7": [
+    "TAATA",
+    "CCAGCT"
+   ],
+   "8": [
+    "TACAT",
+    "CCAGCT"
+   ],
+   "9": [
+    "TCGTT",
+    "CCAGCT"
+   ],
+   "10": [
+    "GGTTGT",
+    "CCAGCT"
+   ],
+   "11": [
+    "CCAGCT",
+    "CCAGCT"
+   ],
+   "12": [
+    "TTCAGA",
+    "CCAGCT"
+   ]
+  },
+  "A": {
+   "1": [
+    "CTCG",
+    "CGCTT"
+   ],
+   "2": [
+    "TGCA",
+    "CGCTT"
+   ],
+   "3": [
+    "ACTA",
+    "CGCTT"
+   ],
+   "4": [
+    "CAGA",
+    "CGCTT"
+   ],
+   "5": [
+    "AACT",
+    "CGCTT"
+   ],
+   "6": [
+    "GCGT",
+    "CGCTT"
+   ],
+   "7": [
+    "CGAT",
+    "CGCTT"
+   ],
+   "8": [
+    "GTAA",
+    "CGCTT"
+   ],
+   "9": [
+    "AGGG",
+    "CGCTT"
+   ],
+   "10": [
+    "GATG",
+    "CGCTT"
+   ],
+   "11": [
+    "TCAG",
+    "CGCTT"
+   ],
+   "12": [
+    "TGCG",
+    "CGCTT"
+   ]
+  },
+  "D": {
+   "1": [
+    "TAGGAA",
+    "ATGAAAG"
+   ],
+   "2": [
+    "GCTCTA",
+    "ATGAAAG"
+   ],
+   "3": [
+    "CCACAA",
+    "ATGAAAG"
+   ],
+   "4": [
+    "CTTCCA",
+    "ATGAAAG"
+   ],
+   "5": [
+    "GAGATA",
+    "ATGAAAG"
+   ],
+   "6": [
+    "ATGCCT",
+    "ATGAAAG"
+   ],
+   "7": [
+    "AGTGGA",
+    "ATGAAAG"
+   ],
+   "8": [
+    "ACCTAA",
+    "ATGAAAG"
+   ],
+   "9": [
+    "ATATGT",
+    "ATGAAAG"
+   ],
+   "10": [
+    "ATCGTA",
+    "ATGAAAG"
+   ],
+   "11": [
+    "CATCGT",
+    "ATGAAAG"
+   ],
+   "12": [
+    "CGCGGT",
+    "ATGAAAG"
+   ]
+  },
+  "H": {
+   "1": [
+    "CGCCTTAT",
+    "TGCGA"
+   ],
+   "2": [
+    "AACCGAGA",
+    "TGCGA"
+   ],
+   "3": [
+    "ACAGGGAA",
+    "TGCGA"
+   ],
+   "4": [
+    "ACGTGGTA",
+    "TGCGA"
+   ],
+   "5": [
+    "CCATGGGT",
+    "TGCGA"
+   ],
+   "6": [
+    "CGCGGAGA",
+    "TGCGA"
+   ],
+   "7": [
+    "CGTGTGGT",
+    "TGCGA"
+   ],
+   "8": [
+    "GCTGTGGA",
+    "TGCGA"
+   ],
+   "9": [
+    "GGATTGGT",
+    "TGCGA"
+   ],
+   "10": [
+    "GTGAGGGT",
+    "TGCGA"
+   ],
+   "11": [
+    "TATCGGGA",
+    "TGCGA"
+   ],
+   "12": [
+    "TTCCTGGA",
+    "TGCGA"
+   ]
+  }
+ },
+ "PstI_varD": {
+  "E": {
+   "1": [
+    "CTATTA",
+    "TGCGA"
+   ],
+   "2": [
+    "GCCAGT",
+    "TGCGA"
+   ],
+   "3": [
+    "GGAAGA",
+    "TGCGA"
+   ],
+   "4": [
+    "GTACTT",
+    "TGCGA"
+   ],
+   "5": [
+    "GTTGAA",
+    "TGCGA"
+   ],
+   "6": [
+    "TAACGA",
+    "TGCGA"
+   ],
+   "7": [
+    "TGGCTA",
+    "TGCGA"
+   ],
+   "8": [
+    "TATTTTT",
+    "TGCGA"
+   ],
+   "9": [
+    "CTTGCTT",
+    "TGCGA"
+   ],
+   "10": [
+    "ATGAAAG",
+    "TGCGA"
+   ],
+   "11": [
+    "AAAAGTT",
+    "TGCGA"
+   ],
+   "12": [
+    "GAATTCA",
+    "TGCGA"
+   ]
+  },
+  "G": {
+   "1": [
+    "GCGGAAT",
+    "TGCGA"
+   ],
+   "2": [
+    "TAGCGGA",
+    "TGCGA"
+   ],
+   "3": [
+    "TCGAAGA",
+    "TGCGA"
+   ],
+   "4": [
+    "TCTGTGA",
+    "TGCGA"
+   ],
+   "5": [
+    "TGCTGGA",
+    "TGCGA"
+   ],
+   "6": [
+    "ACGACTAG",
+    "TGCGA"
+   ],
+   "7": [
+    "TAGCATGG",
+    "TGCGA"
+   ],
+   "8": [
+    "TAGGCCAT",
+    "TGCGA"
+   ],
+   "9": [
+    "TGCAAGGA",
+    "TGCGA"
+   ],
+   "10": [
+    "TGGTACGT",
+    "TGCGA"
+   ],
+   "11": [
+    "TCTCAGTG",
+    "TGCGA"
+   ],
+   "12": [
+    "CCGGATAT",
+    "TGCGA"
+   ]
+  },
+  "F": {
+   "1": [
+    "GAACTTG",
+    "TGCGA"
+   ],
+   "2": [
+    "GGACCTA",
+    "TGCGA"
+   ],
+   "3": [
+    "GTCGATT",
+    "TGCGA"
+   ],
+   "4": [
+    "AACGCCT",
+    "TGCGA"
+   ],
+   "5": [
+    "AATATGG",
+    "TGCGA"
+   ],
+   "6": [
+    "ACGTGTT",
+    "TGCGA"
+   ],
+   "7": [
+    "ATTAATT",
+    "TGCGA"
+   ],
+   "8": [
+    "ATTGGAT",
+    "TGCGA"
+   ],
+   "9": [
+    "CATAAGT",
+    "TGCGA"
+   ],
+   "10": [
+    "CGCTGAT",
+    "TGCGA"
+   ],
+   "11": [
+    "CGGTAGA",
+    "TGCGA"
+   ],
+   "12": [
+    "CTACGGA",
+    "TGCGA"
+   ]
+  },
+  "B": {
+   "1": [
+    "CGCTT",
+    "TGCGA"
+   ],
+   "2": [
+    "TCACG",
+    "TGCGA"
+   ],
+   "3": [
+    "CTAGG",
+    "TGCGA"
+   ],
+   "4": [
+    "ACAAA",
+    "TGCGA"
+   ],
+   "5": [
+    "TTCTG",
+    "TGCGA"
+   ],
+   "6": [
+    "AGCCG",
+    "TGCGA"
+   ],
+   "7": [
+    "GTATT",
+    "TGCGA"
+   ],
+   "8": [
+    "CTGTA",
+    "TGCGA"
+   ],
+   "9": [
+    "ACCGT",
+    "TGCGA"
+   ],
+   "10": [
+    "GCTTA",
+    "TGCGA"
+   ],
+   "11": [
+    "GGTGT",
+    "TGCGA"
+   ],
+   "12": [
+    "AGGAT",
+    "TGCGA"
+   ]
+  },
+  "C": {
+   "1": [
+    "ATTGA",
+    "TGCGA"
+   ],
+   "2": [
+    "CATCT",
+    "TGCGA"
+   ],
+   "3": [
+    "CCTAG",
+    "TGCGA"
+   ],
+   "4": [
+    "GAGGA",
+    "TGCGA"
+   ],
+   "5": [
+    "GGAAG",
+    "TGCGA"
+   ],
+   "6": [
+    "GTCAA",
+    "TGCGA"
+   ],
+   "7": [
+    "TAATA",
+    "TGCGA"
+   ],
+   "8": [
+    "TACAT",
+    "TGCGA"
+   ],
+   "9": [
+    "TCGTT",
+    "TGCGA"
+   ],
+   "10": [
+    "GGTTGT",
+    "TGCGA"
+   ],
+   "11": [
+    "CCAGCT",
+    "TGCGA"
+   ],
+   "12": [
+    "TTCAGA",
+    "TGCGA"
+   ]
+  },
+  "A": {
+   "1": [
+    "CTCG",
+    "TGCGA"
+   ],
+   "2": [
+    "TGCA",
+    "TGCGA"
+   ],
+   "3": [
+    "ACTA",
+    "TGCGA"
+   ],
+   "4": [
+    "CAGA",
+    "TGCGA"
+   ],
+   "5": [
+    "AACT",
+    "TGCGA"
+   ],
+   "6": [
+    "GCGT",
+    "TGCGA"
+   ],
+   "7": [
+    "CGAT",
+    "TGCGA"
+   ],
+   "8": [
+    "GTAA",
+    "TGCGA"
+   ],
+   "9": [
+    "AGGG",
+    "TGCGA"
+   ],
+   "10": [
+    "GATG",
+    "TGCGA"
+   ],
+   "11": [
+    "TCAG",
+    "TGCGA"
+   ],
+   "12": [
+    "TGCG",
+    "TGCGA"
+   ]
+  },
+  "D": {
+   "1": [
+    "TAGGAA",
+    "TGCGA"
+   ],
+   "2": [
+    "GCTCTA",
+    "TGCGA"
+   ],
+   "3": [
+    "CCACAA",
+    "TGCGA"
+   ],
+   "4": [
+    "CTTCCA",
+    "TGCGA"
+   ],
+   "5": [
+    "GAGATA",
+    "TGCGA"
+   ],
+   "6": [
+    "ATGCCT",
+    "TGCGA"
+   ],
+   "7": [
+    "AGTGGA",
+    "TGCGA"
+   ],
+   "8": [
+    "ACCTAA",
+    "TGCGA"
+   ],
+   "9": [
+    "ATATGT",
+    "TGCGA"
+   ],
+   "10": [
+    "ATCGTA",
+    "TGCGA"
+   ],
+   "11": [
+    "CATCGT",
+    "TGCGA"
+   ],
+   "12": [
+    "CGCGGT",
+    "TGCGA"
+   ]
+  },
+  "H": {
+   "1": [
+    "CGCCTTAT",
+    "TGCGA"
+   ],
+   "2": [
+    "AACCGAGA",
+    "TGCGA"
+   ],
+   "3": [
+    "ACAGGGAA",
+    "TGCGA"
+   ],
+   "4": [
+    "ACGTGGTA",
+    "TGCGA"
+   ],
+   "5": [
+    "CCATGGGT",
+    "TGCGA"
+   ],
+   "6": [
+    "CGCGGAGA",
+    "TGCGA"
+   ],
+   "7": [
+    "CGTGTGGT",
+    "TGCGA"
+   ],
+   "8": [
+    "GCTGTGGA",
+    "TGCGA"
+   ],
+   "9": [
+    "GGATTGGT",
+    "TGCGA"
+   ],
+   "10": [
+    "GTGAGGGT",
+    "TGCGA"
+   ],
+   "11": [
+    "TATCGGGA",
+    "TGCGA"
+   ],
+   "12": [
+    "TTCCTGGA",
+    "TGCGA"
+   ]
+  }
+ },
+ "PstI_varC": {
+  "E": {
+   "1": [
+    "CTATTA",
+    "ACTA"
+   ],
+   "2": [
+    "GCCAGT",
+    "ACTA"
+   ],
+   "3": [
+    "GGAAGA",
+    "ACTA"
+   ],
+   "4": [
+    "GTACTT",
+    "ACTA"
+   ],
+   "5": [
+    "GTTGAA",
+    "ACTA"
+   ],
+   "6": [
+    "TAACGA",
+    "ACTA"
+   ],
+   "7": [
+    "TGGCTA",
+    "ACTA"
+   ],
+   "8": [
+    "TATTTTT",
+    "ACTA"
+   ],
+   "9": [
+    "CTTGCTT",
+    "ACTA"
+   ],
+   "10": [
+    "ATGAAAG",
+    "ACTA"
+   ],
+   "11": [
+    "AAAAGTT",
+    "ACTA"
+   ],
+   "12": [
+    "GAATTCA",
+    "ACTA"
+   ]
+  },
+  "G": {
+   "1": [
+    "GCGGAAT",
+    "ACTA"
+   ],
+   "2": [
+    "TAGCGGA",
+    "ACTA"
+   ],
+   "3": [
+    "TCGAAGA",
+    "ACTA"
+   ],
+   "4": [
+    "TCTGTGA",
+    "ACTA"
+   ],
+   "5": [
+    "TGCTGGA",
+    "ACTA"
+   ],
+   "6": [
+    "ACGACTAG",
+    "ACTA"
+   ],
+   "7": [
+    "TAGCATGG",
+    "ACTA"
+   ],
+   "8": [
+    "TAGGCCAT",
+    "ACTA"
+   ],
+   "9": [
+    "TGCAAGGA",
+    "ACTA"
+   ],
+   "10": [
+    "TGGTACGT",
+    "ACTA"
+   ],
+   "11": [
+    "TCTCAGTG",
+    "ACTA"
+   ],
+   "12": [
+    "CCGGATAT",
+    "ACTA"
+   ]
+  },
+  "F": {
+   "1": [
+    "GAACTTG",
+    "ACTA"
+   ],
+   "2": [
+    "GGACCTA",
+    "ACTA"
+   ],
+   "3": [
+    "GTCGATT",
+    "ACTA"
+   ],
+   "4": [
+    "AACGCCT",
+    "ACTA"
+   ],
+   "5": [
+    "AATATGG",
+    "ACTA"
+   ],
+   "6": [
+    "ACGTGTT",
+    "ACTA"
+   ],
+   "7": [
+    "ATTAATT",
+    "ACTA"
+   ],
+   "8": [
+    "ATTGGAT",
+    "ACTA"
+   ],
+   "9": [
+    "CATAAGT",
+    "ACTA"
+   ],
+   "10": [
+    "CGCTGAT",
+    "ACTA"
+   ],
+   "11": [
+    "CGGTAGA",
+    "ACTA"
+   ],
+   "12": [
+    "CTACGGA",
+    "ACTA"
+   ]
+  },
+  "B": {
+   "1": [
+    "CGCTT",
+    "ACTA"
+   ],
+   "2": [
+    "TCACG",
+    "ACTA"
+   ],
+   "3": [
+    "CTAGG",
+    "ACTA"
+   ],
+   "4": [
+    "ACAAA",
+    "ACTA"
+   ],
+   "5": [
+    "TTCTG",
+    "ACTA"
+   ],
+   "6": [
+    "AGCCG",
+    "ACTA"
+   ],
+   "7": [
+    "GTATT",
+    "ACTA"
+   ],
+   "8": [
+    "CTGTA",
+    "ACTA"
+   ],
+   "9": [
+    "ACCGT",
+    "ACTA"
+   ],
+   "10": [
+    "GCTTA",
+    "ACTA"
+   ],
+   "11": [
+    "GGTGT",
+    "ACTA"
+   ],
+   "12": [
+    "AGGAT",
+    "ACTA"
+   ]
+  },
+  "C": {
+   "1": [
+    "ATTGA",
+    "ACTA"
+   ],
+   "2": [
+    "CATCT",
+    "ACTA"
+   ],
+   "3": [
+    "CCTAG",
+    "ACTA"
+   ],
+   "4": [
+    "GAGGA",
+    "ACTA"
+   ],
+   "5": [
+    "GGAAG",
+    "ACTA"
+   ],
+   "6": [
+    "GTCAA",
+    "ACTA"
+   ],
+   "7": [
+    "TAATA",
+    "ACTA"
+   ],
+   "8": [
+    "TACAT",
+    "ACTA"
+   ],
+   "9": [
+    "TCGTT",
+    "ACTA"
+   ],
+   "10": [
+    "GGTTGT",
+    "ACTA"
+   ],
+   "11": [
+    "CCAGCT",
+    "ACTA"
+   ],
+   "12": [
+    "TTCAGA",
+    "ACTA"
+   ]
+  },
+  "A": {
+   "1": [
+    "CTCG",
+    "ACTA"
+   ],
+   "2": [
+    "TGCA",
+    "ACTA"
+   ],
+   "3": [
+    "ACTA",
+    "ACTA"
+   ],
+   "4": [
+    "CAGA",
+    "ACTA"
+   ],
+   "5": [
+    "AACT",
+    "ACTA"
+   ],
+   "6": [
+    "GCGT",
+    "ACTA"
+   ],
+   "7": [
+    "CGAT",
+    "ACTA"
+   ],
+   "8": [
+    "GTAA",
+    "ACTA"
+   ],
+   "9": [
+    "AGGG",
+    "ACTA"
+   ],
+   "10": [
+    "GATG",
+    "ACTA"
+   ],
+   "11": [
+    "TCAG",
+    "ACTA"
+   ],
+   "12": [
+    "TGCG",
+    "ACTA"
+   ]
+  },
+  "D": {
+   "1": [
+    "TAGGAA",
+    "ACTA"
+   ],
+   "2": [
+    "GCTCTA",
+    "ACTA"
+   ],
+   "3": [
+    "CCACAA",
+    "ACTA"
+   ],
+   "4": [
+    "CTTCCA",
+    "ACTA"
+   ],
+   "5": [
+    "GAGATA",
+    "ACTA"
+   ],
+   "6": [
+    "ATGCCT",
+    "ACTA"
+   ],
+   "7": [
+    "AGTGGA",
+    "ACTA"
+   ],
+   "8": [
+    "ACCTAA",
+    "ACTA"
+   ],
+   "9": [
+    "ATATGT",
+    "ACTA"
+   ],
+   "10": [
+    "ATCGTA",
+    "ACTA"
+   ],
+   "11": [
+    "CATCGT",
+    "ACTA"
+   ],
+   "12": [
+    "CGCGGT",
+    "ACTA"
+   ]
+  },
+  "H": {
+   "1": [
+    "CGCCTTAT",
+    "ACTA"
+   ],
+   "2": [
+    "AACCGAGA",
+    "ACTA"
+   ],
+   "3": [
+    "ACAGGGAA",
+    "ACTA"
+   ],
+   "4": [
+    "ACGTGGTA",
+    "ACTA"
+   ],
+   "5": [
+    "CCATGGGT",
+    "ACTA"
+   ],
+   "6": [
+    "CGCGGAGA",
+    "ACTA"
+   ],
+   "7": [
+    "CGTGTGGT",
+    "ACTA"
+   ],
+   "8": [
+    "GCTGTGGA",
+    "ACTA"
+   ],
+   "9": [
+    "GGATTGGT",
+    "ACTA"
+   ],
+   "10": [
+    "GTGAGGGT",
+    "ACTA"
+   ],
+   "11": [
+    "TATCGGGA",
+    "ACTA"
+   ],
+   "12": [
+    "TTCCTGGA",
+    "ACTA"
+   ]
+  }
+ },
+ "PstI_varF": {
+  "E": {
+   "1": [
+    "CTATTA",
+    "GGTTGT"
+   ],
+   "2": [
+    "GCCAGT",
+    "GGTTGT"
+   ],
+   "3": [
+    "GGAAGA",
+    "GGTTGT"
+   ],
+   "4": [
+    "GTACTT",
+    "GGTTGT"
+   ],
+   "5": [
+    "GTTGAA",
+    "GGTTGT"
+   ],
+   "6": [
+    "TAACGA",
+    "GGTTGT"
+   ],
+   "7": [
+    "TGGCTA",
+    "GGTTGT"
+   ],
+   "8": [
+    "TATTTTT",
+    "GGTTGT"
+   ],
+   "9": [
+    "CTTGCTT",
+    "GGTTGT"
+   ],
+   "10": [
+    "ATGAAAG",
+    "GGTTGT"
+   ],
+   "11": [
+    "AAAAGTT",
+    "GGTTGT"
+   ],
+   "12": [
+    "GAATTCA",
+    "GGTTGT"
+   ]
+  },
+  "G": {
+   "1": [
+    "GCGGAAT",
+    "GGTTGT"
+   ],
+   "2": [
+    "TAGCGGA",
+    "GGTTGT"
+   ],
+   "3": [
+    "TCGAAGA",
+    "GGTTGT"
+   ],
+   "4": [
+    "TCTGTGA",
+    "GGTTGT"
+   ],
+   "5": [
+    "TGCTGGA",
+    "GGTTGT"
+   ],
+   "6": [
+    "ACGACTAG",
+    "GGTTGT"
+   ],
+   "7": [
+    "TAGCATGG",
+    "GGTTGT"
+   ],
+   "8": [
+    "TAGGCCAT",
+    "GGTTGT"
+   ],
+   "9": [
+    "TGCAAGGA",
+    "GGTTGT"
+   ],
+   "10": [
+    "TGGTACGT",
+    "GGTTGT"
+   ],
+   "11": [
+    "TCTCAGTG",
+    "GGTTGT"
+   ],
+   "12": [
+    "CCGGATAT",
+    "GGTTGT"
+   ]
+  },
+  "F": {
+   "1": [
+    "GAACTTG",
+    "GGTTGT"
+   ],
+   "2": [
+    "GGACCTA",
+    "GGTTGT"
+   ],
+   "3": [
+    "GTCGATT",
+    "GGTTGT"
+   ],
+   "4": [
+    "AACGCCT",
+    "GGTTGT"
+   ],
+   "5": [
+    "AATATGG",
+    "GGTTGT"
+   ],
+   "6": [
+    "ACGTGTT",
+    "GGTTGT"
+   ],
+   "7": [
+    "ATTAATT",
+    "GGTTGT"
+   ],
+   "8": [
+    "ATTGGAT",
+    "GGTTGT"
+   ],
+   "9": [
+    "CATAAGT",
+    "GGTTGT"
+   ],
+   "10": [
+    "CGCTGAT",
+    "GGTTGT"
+   ],
+   "11": [
+    "CGGTAGA",
+    "GGTTGT"
+   ],
+   "12": [
+    "CTACGGA",
+    "GGTTGT"
+   ]
+  },
+  "B": {
+   "1": [
+    "CGCTT",
+    "GGTTGT"
+   ],
+   "2": [
+    "TCACG",
+    "GGTTGT"
+   ],
+   "3": [
+    "CTAGG",
+    "GGTTGT"
+   ],
+   "4": [
+    "ACAAA",
+    "GGTTGT"
+   ],
+   "5": [
+    "TTCTG",
+    "GGTTGT"
+   ],
+   "6": [
+    "AGCCG",
+    "GGTTGT"
+   ],
+   "7": [
+    "GTATT",
+    "GGTTGT"
+   ],
+   "8": [
+    "CTGTA",
+    "GGTTGT"
+   ],
+   "9": [
+    "ACCGT",
+    "GGTTGT"
+   ],
+   "10": [
+    "GCTTA",
+    "GGTTGT"
+   ],
+   "11": [
+    "GGTGT",
+    "GGTTGT"
+   ],
+   "12": [
+    "AGGAT",
+    "GGTTGT"
+   ]
+  },
+  "C": {
+   "1": [
+    "ATTGA",
+    "GGTTGT"
+   ],
+   "2": [
+    "CATCT",
+    "GGTTGT"
+   ],
+   "3": [
+    "CCTAG",
+    "GGTTGT"
+   ],
+   "4": [
+    "GAGGA",
+    "GGTTGT"
+   ],
+   "5": [
+    "GGAAG",
+    "GGTTGT"
+   ],
+   "6": [
+    "GTCAA",
+    "GGTTGT"
+   ],
+   "7": [
+    "TAATA",
+    "GGTTGT"
+   ],
+   "8": [
+    "TACAT",
+    "GGTTGT"
+   ],
+   "9": [
+    "TCGTT",
+    "GGTTGT"
+   ],
+   "10": [
+    "GGTTGT",
+    "GGTTGT"
+   ],
+   "11": [
+    "CCAGCT",
+    "GGTTGT"
+   ],
+   "12": [
+    "TTCAGA",
+    "GGTTGT"
+   ]
+  },
+  "A": {
+   "1": [
+    "CTCG",
+    "GGTTGT"
+   ],
+   "2": [
+    "TGCA",
+    "GGTTGT"
+   ],
+   "3": [
+    "ACTA",
+    "GGTTGT"
+   ],
+   "4": [
+    "CAGA",
+    "GGTTGT"
+   ],
+   "5": [
+    "AACT",
+    "GGTTGT"
+   ],
+   "6": [
+    "GCGT",
+    "GGTTGT"
+   ],
+   "7": [
+    "CGAT",
+    "GGTTGT"
+   ],
+   "8": [
+    "GTAA",
+    "GGTTGT"
+   ],
+   "9": [
+    "AGGG",
+    "GGTTGT"
+   ],
+   "10": [
+    "GATG",
+    "GGTTGT"
+   ],
+   "11": [
+    "TCAG",
+    "GGTTGT"
+   ],
+   "12": [
+    "TGCG",
+    "GGTTGT"
+   ]
+  },
+  "D": {
+   "1": [
+    "TAGGAA",
+    "GGTTGT"
+   ],
+   "2": [
+    "GCTCTA",
+    "GGTTGT"
+   ],
+   "3": [
+    "CCACAA",
+    "GGTTGT"
+   ],
+   "4": [
+    "CTTCCA",
+    "GGTTGT"
+   ],
+   "5": [
+    "GAGATA",
+    "GGTTGT"
+   ],
+   "6": [
+    "ATGCCT",
+    "GGTTGT"
+   ],
+   "7": [
+    "AGTGGA",
+    "GGTTGT"
+   ],
+   "8": [
+    "ACCTAA",
+    "GGTTGT"
+   ],
+   "9": [
+    "ATATGT",
+    "GGTTGT"
+   ],
+   "10": [
+    "ATCGTA",
+    "GGTTGT"
+   ],
+   "11": [
+    "CATCGT",
+    "GGTTGT"
+   ],
+   "12": [
+    "CGCGGT",
+    "GGTTGT"
+   ]
+  },
+  "H": {
+   "1": [
+    "CGCCTTAT",
+    "GGTTGT"
+   ],
+   "2": [
+    "AACCGAGA",
+    "GGTTGT"
+   ],
+   "3": [
+    "ACAGGGAA",
+    "GGTTGT"
+   ],
+   "4": [
+    "ACGTGGTA",
+    "GGTTGT"
+   ],
+   "5": [
+    "CCATGGGT",
+    "GGTTGT"
+   ],
+   "6": [
+    "CGCGGAGA",
+    "GGTTGT"
+   ],
+   "7": [
+    "CGTGTGGT",
+    "GGTTGT"
+   ],
+   "8": [
+    "GCTGTGGA",
+    "GGTTGT"
+   ],
+   "9": [
+    "GGATTGGT",
+    "GGTTGT"
+   ],
+   "10": [
+    "GTGAGGGT",
+    "GGTTGT"
+   ],
+   "11": [
+    "TATCGGGA",
+    "GGTTGT"
+   ],
+   "12": [
+    "TTCCTGGA",
+    "GGTTGT"
+   ]
+  }
+ },
+ "CCGGplate3": {
+  "E": {
+   "1": [
+    "accgt",
+    "cttcc"
+   ],
+   "2": [
+    "tcacg",
+    "cttcc"
+   ],
+   "3": [
+    "ctagg",
+    "cttcc"
+   ],
+   "4": [
+    "acaaa",
+    "cttcc"
+   ],
+   "5": [
+    "ttctg",
+    "cttcc"
+   ],
+   "6": [
+    "agccg",
+    "cttcc"
+   ],
+   "7": [
+    "gtatt",
+    "cttcc"
+   ],
+   "8": [
+    "ctgta",
+    "cttcc"
+   ],
+   "9": [
+    "cgctt",
+    "cttcc"
+   ],
+   "10": [
+    "gctta",
+    "cttcc"
+   ],
+   "11": [
+    "ggtgt",
+    "cttcc"
+   ],
+   "12": [
+    "ccagct",
+    "cttcc"
+   ]
+  },
+  "G": {
+   "1": [
+    "accgt",
+    "tatta"
+   ],
+   "2": [
+    "tcacg",
+    "tatta"
+   ],
+   "3": [
+    "ctagg",
+    "tatta"
+   ],
+   "4": [
+    "acaaa",
+    "tatta"
+   ],
+   "5": [
+    "ttctg",
+    "tatta"
+   ],
+   "6": [
+    "agccg",
+    "tatta"
+   ],
+   "7": [
+    "gtatt",
+    "tatta"
+   ],
+   "8": [
+    "ctgta",
+    "tatta"
+   ],
+   "9": [
+    "cgctt",
+    "tatta"
+   ],
+   "10": [
+    "gctta",
+    "tatta"
+   ],
+   "11": [
+    "ggtgt",
+    "tatta"
+   ],
+   "12": [
+    "ccagct",
+    "tatta"
+   ]
+  },
+  "F": {
+   "1": [
+    "accgt",
+    "ttgac"
+   ],
+   "2": [
+    "tcacg",
+    "ttgac"
+   ],
+   "3": [
+    "ctagg",
+    "ttgac"
+   ],
+   "4": [
+    "acaaa",
+    "ttgac"
+   ],
+   "5": [
+    "ttctg",
+    "ttgac"
+   ],
+   "6": [
+    "agccg",
+    "ttgac"
+   ],
+   "7": [
+    "gtatt",
+    "ttgac"
+   ],
+   "8": [
+    "ctgta",
+    "ttgac"
+   ],
+   "9": [
+    "cgctt",
+    "ttgac"
+   ],
+   "10": [
+    "gctta",
+    "ttgac"
+   ],
+   "11": [
+    "ggtgt",
+    "ttgac"
+   ],
+   "12": [
+    "ccagct",
+    "ttgac"
+   ]
+  },
+  "B": {
+   "1": [
+    "accgt",
+    "agatg"
+   ],
+   "2": [
+    "tcacg",
+    "agatg"
+   ],
+   "3": [
+    "ctagg",
+    "agatg"
+   ],
+   "4": [
+    "acaaa",
+    "agatg"
+   ],
+   "5": [
+    "ttctg",
+    "agatg"
+   ],
+   "6": [
+    "agccg",
+    "agatg"
+   ],
+   "7": [
+    "gtatt",
+    "agatg"
+   ],
+   "8": [
+    "ctgta",
+    "agatg"
+   ],
+   "9": [
+    "cgctt",
+    "agatg"
+   ],
+   "10": [
+    "gctta",
+    "agatg"
+   ],
+   "11": [
+    "ggtgt",
+    "agatg"
+   ],
+   "12": [
+    "ccagct",
+    "agatg"
+   ]
+  },
+  "C": {
+   "1": [
+    "accgt",
+    "ctagg"
+   ],
+   "2": [
+    "tcacg",
+    "ctagg"
+   ],
+   "3": [
+    "ctagg",
+    "ctagg"
+   ],
+   "4": [
+    "acaaa",
+    "ctagg"
+   ],
+   "5": [
+    "ttctg",
+    "ctagg"
+   ],
+   "6": [
+    "agccg",
+    "ctagg"
+   ],
+   "7": [
+    "gtatt",
+    "ctagg"
+   ],
+   "8": [
+    "ctgta",
+    "ctagg"
+   ],
+   "9": [
+    "cgctt",
+    "ctagg"
+   ],
+   "10": [
+    "gctta",
+    "ctagg"
+   ],
+   "11": [
+    "ggtgt",
+    "ctagg"
+   ],
+   "12": [
+    "ccagct",
+    "ctagg"
+   ]
+  },
+  "A": {
+   "1": [
+    "accgt",
+    "tcaat"
+   ],
+   "2": [
+    "tcacg",
+    "tcaat"
+   ],
+   "3": [
+    "ctagg",
+    "tcaat"
+   ],
+   "4": [
+    "acaaa",
+    "tcaat"
+   ],
+   "5": [
+    "ttctg",
+    "tcaat"
+   ],
+   "6": [
+    "agccg",
+    "tcaat"
+   ],
+   "7": [
+    "gtatt",
+    "tcaat"
+   ],
+   "8": [
+    "ctgta",
+    "tcaat"
+   ],
+   "9": [
+    "cgctt",
+    "tcaat"
+   ],
+   "10": [
+    "gctta",
+    "tcaat"
+   ],
+   "11": [
+    "ggtgt",
+    "tcaat"
+   ],
+   "12": [
+    "ccagct",
+    "tcaat"
+   ]
+  },
+  "D": {
+   "1": [
+    "accgt",
+    "tcctc"
+   ],
+   "2": [
+    "tcacg",
+    "tcctc"
+   ],
+   "3": [
+    "ctagg",
+    "tcctc"
+   ],
+   "4": [
+    "acaaa",
+    "tcctc"
+   ],
+   "5": [
+    "ttctg",
+    "tcctc"
+   ],
+   "6": [
+    "agccg",
+    "tcctc"
+   ],
+   "7": [
+    "gtatt",
+    "tcctc"
+   ],
+   "8": [
+    "ctgta",
+    "tcctc"
+   ],
+   "9": [
+    "cgctt",
+    "tcctc"
+   ],
+   "10": [
+    "gctta",
+    "tcctc"
+   ],
+   "11": [
+    "ggtgt",
+    "tcctc"
+   ],
+   "12": [
+    "ccagct",
+    "tcctc"
+   ]
+  },
+  "H": {
+   "1": [
+    "accgt",
+    "atgta"
+   ],
+   "2": [
+    "tcacg",
+    "atgta"
+   ],
+   "3": [
+    "ctagg",
+    "atgta"
+   ],
+   "4": [
+    "acaaa",
+    "atgta"
+   ],
+   "5": [
+    "ttctg",
+    "atgta"
+   ],
+   "6": [
+    "agccg",
+    "atgta"
+   ],
+   "7": [
+    "gtatt",
+    "atgta"
+   ],
+   "8": [
+    "ctgta",
+    "atgta"
+   ],
+   "9": [
+    "cgctt",
+    "atgta"
+   ],
+   "10": [
+    "gctta",
+    "atgta"
+   ],
+   "11": [
+    "ggtgt",
+    "atgta"
+   ],
+   "12": [
+    "ccagct",
+    "atgta"
+   ]
+  }
+ },
+ "PstI_common": {
+  "E": {
+   "1": [
+    "CTATTA",
+    ""
+   ],
+   "2": [
+    "GCCAGT",
+    ""
+   ],
+   "3": [
+    "GGAAGA",
+    ""
+   ],
+   "4": [
+    "GTACTT",
+    ""
+   ],
+   "5": [
+    "GTTGAA",
+    ""
+   ],
+   "6": [
+    "TAACGA",
+    ""
+   ],
+   "7": [
+    "TGGCTA",
+    ""
+   ],
+   "8": [
+    "TATTTTT",
+    ""
+   ],
+   "9": [
+    "CTTGCTT",
+    ""
+   ],
+   "10": [
+    "ATGAAAG",
+    ""
+   ],
+   "11": [
+    "AAAAGTT",
+    ""
+   ],
+   "12": [
+    "GAATTCA",
+    ""
+   ]
+  },
+  "G": {
+   "1": [
+    "GCGGAAT",
+    ""
+   ],
+   "2": [
+    "TAGCGGA",
+    ""
+   ],
+   "3": [
+    "TCGAAGA",
+    ""
+   ],
+   "4": [
+    "TCTGTGA",
+    ""
+   ],
+   "5": [
+    "TGCTGGA",
+    ""
+   ],
+   "6": [
+    "ACGACTAG",
+    ""
+   ],
+   "7": [
+    "TAGCATGG",
+    ""
+   ],
+   "8": [
+    "TAGGCCAT",
+    ""
+   ],
+   "9": [
+    "TGCAAGGA",
+    ""
+   ],
+   "10": [
+    "TGGTACGT",
+    ""
+   ],
+   "11": [
+    "TCTCAGTG",
+    ""
+   ],
+   "12": [
+    "CCGGATAT",
+    ""
+   ]
+  },
+  "F": {
+   "1": [
+    "GAACTTG",
+    ""
+   ],
+   "2": [
+    "GGACCTA",
+    ""
+   ],
+   "3": [
+    "GTCGATT",
+    ""
+   ],
+   "4": [
+    "AACGCCT",
+    ""
+   ],
+   "5": [
+    "AATATGG",
+    ""
+   ],
+   "6": [
+    "ACGTGTT",
+    ""
+   ],
+   "7": [
+    "ATTAATT",
+    ""
+   ],
+   "8": [
+    "ATTGGAT",
+    ""
+   ],
+   "9": [
+    "CATAAGT",
+    ""
+   ],
+   "10": [
+    "CGCTGAT",
+    ""
+   ],
+   "11": [
+    "CGGTAGA",
+    ""
+   ],
+   "12": [
+    "CTACGGA",
+    ""
+   ]
+  },
+  "B": {
+   "1": [
+    "CGCTT",
+    ""
+   ],
+   "2": [
+    "TCACG",
+    ""
+   ],
+   "3": [
+    "CTAGG",
+    ""
+   ],
+   "4": [
+    "ACAAA",
+    ""
+   ],
+   "5": [
+    "TTCTG",
+    ""
+   ],
+   "6": [
+    "AGCCG",
+    ""
+   ],
+   "7": [
+    "GTATT",
+    ""
+   ],
+   "8": [
+    "CTGTA",
+    ""
+   ],
+   "9": [
+    "ACCGT",
+    ""
+   ],
+   "10": [
+    "GCTTA",
+    ""
+   ],
+   "11": [
+    "GGTGT",
+    ""
+   ],
+   "12": [
+    "AGGAT",
+    ""
+   ]
+  },
+  "C": {
+   "1": [
+    "ATTGA",
+    ""
+   ],
+   "2": [
+    "CATCT",
+    ""
+   ],
+   "3": [
+    "CCTAG",
+    ""
+   ],
+   "4": [
+    "GAGGA",
+    ""
+   ],
+   "5": [
+    "GGAAG",
+    ""
+   ],
+   "6": [
+    "GTCAA",
+    ""
+   ],
+   "7": [
+    "TAATA",
+    ""
+   ],
+   "8": [
+    "TACAT",
+    ""
+   ],
+   "9": [
+    "TCGTT",
+    ""
+   ],
+   "10": [
+    "GGTTGT",
+    ""
+   ],
+   "11": [
+    "CCAGCT",
+    ""
+   ],
+   "12": [
+    "TTCAGA",
+    ""
+   ]
+  },
+  "A": {
+   "1": [
+    "CTCG",
+    ""
+   ],
+   "2": [
+    "TGCA",
+    ""
+   ],
+   "3": [
+    "ACTA",
+    ""
+   ],
+   "4": [
+    "CAGA",
+    ""
+   ],
+   "5": [
+    "AACT",
+    ""
+   ],
+   "6": [
+    "GCGT",
+    ""
+   ],
+   "7": [
+    "CGAT",
+    ""
+   ],
+   "8": [
+    "GTAA",
+    ""
+   ],
+   "9": [
+    "AGGG",
+    ""
+   ],
+   "10": [
+    "GATG",
+    ""
+   ],
+   "11": [
+    "TCAG",
+    ""
+   ],
+   "12": [
+    "TGCG",
+    ""
+   ]
+  },
+  "D": {
+   "1": [
+    "TAGGAA",
+    ""
+   ],
+   "2": [
+    "GCTCTA",
+    ""
+   ],
+   "3": [
+    "CCACAA",
+    ""
+   ],
+   "4": [
+    "CTTCCA",
+    ""
+   ],
+   "5": [
+    "GAGATA",
+    ""
+   ],
+   "6": [
+    "ATGCCT",
+    ""
+   ],
+   "7": [
+    "AGTGGA",
+    ""
+   ],
+   "8": [
+    "ACCTAA",
+    ""
+   ],
+   "9": [
+    "ATATGT",
+    ""
+   ],
+   "10": [
+    "ATCGTA",
+    ""
+   ],
+   "11": [
+    "CATCGT",
+    ""
+   ],
+   "12": [
+    "CGCGGT",
+    ""
+   ]
+  },
+  "H": {
+   "1": [
+    "CGCCTTAT",
+    ""
+   ],
+   "2": [
+    "AACCGAGA",
+    ""
+   ],
+   "3": [
+    "ACAGGGAA",
+    ""
+   ],
+   "4": [
+    "ACGTGGTA",
+    ""
+   ],
+   "5": [
+    "CCATGGGT",
+    ""
+   ],
+   "6": [
+    "CGCGGAGA",
+    ""
+   ],
+   "7": [
+    "CGTGTGGT",
+    ""
+   ],
+   "8": [
+    "GCTGTGGA",
+    ""
+   ],
+   "9": [
+    "GGATTGGT",
+    ""
+   ],
+   "10": [
+    "GTGAGGGT",
+    ""
+   ],
+   "11": [
+    "TATCGGGA",
+    ""
+   ],
+   "12": [
+    "TTCCTGGA",
+    ""
+   ]
+  }
+ },
+ "PstI_varA": {
+  "E": {
+   "1": [
+    "CTATTA",
+    "CTCG"
+   ],
+   "2": [
+    "GCCAGT",
+    "CTCG"
+   ],
+   "3": [
+    "GGAAGA",
+    "CTCG"
+   ],
+   "4": [
+    "GTACTT",
+    "CTCG"
+   ],
+   "5": [
+    "GTTGAA",
+    "CTCG"
+   ],
+   "6": [
+    "TAACGA",
+    "CTCG"
+   ],
+   "7": [
+    "TGGCTA",
+    "CTCG"
+   ],
+   "8": [
+    "TATTTTT",
+    "CTCG"
+   ],
+   "9": [
+    "CTTGCTT",
+    "CTCG"
+   ],
+   "10": [
+    "ATGAAAG",
+    "CTCG"
+   ],
+   "11": [
+    "AAAAGTT",
+    "CTCG"
+   ],
+   "12": [
+    "GAATTCA",
+    "CTCG"
+   ]
+  },
+  "G": {
+   "1": [
+    "GCGGAAT",
+    "CTCG"
+   ],
+   "2": [
+    "TAGCGGA",
+    "CTCG"
+   ],
+   "3": [
+    "TCGAAGA",
+    "CTCG"
+   ],
+   "4": [
+    "TCTGTGA",
+    "CTCG"
+   ],
+   "5": [
+    "TGCTGGA",
+    "CTCG"
+   ],
+   "6": [
+    "ACGACTAG",
+    "CTCG"
+   ],
+   "7": [
+    "TAGCATGG",
+    "CTCG"
+   ],
+   "8": [
+    "TAGGCCAT",
+    "CTCG"
+   ],
+   "9": [
+    "TGCAAGGA",
+    "CTCG"
+   ],
+   "10": [
+    "TGGTACGT",
+    "CTCG"
+   ],
+   "11": [
+    "TCTCAGTG",
+    "CTCG"
+   ],
+   "12": [
+    "CCGGATAT",
+    "CTCG"
+   ]
+  },
+  "F": {
+   "1": [
+    "GAACTTG",
+    "CTCG"
+   ],
+   "2": [
+    "GGACCTA",
+    "CTCG"
+   ],
+   "3": [
+    "GTCGATT",
+    "CTCG"
+   ],
+   "4": [
+    "AACGCCT",
+    "CTCG"
+   ],
+   "5": [
+    "AATATGG",
+    "CTCG"
+   ],
+   "6": [
+    "ACGTGTT",
+    "CTCG"
+   ],
+   "7": [
+    "ATTAATT",
+    "CTCG"
+   ],
+   "8": [
+    "ATTGGAT",
+    "CTCG"
+   ],
+   "9": [
+    "CATAAGT",
+    "CTCG"
+   ],
+   "10": [
+    "CGCTGAT",
+    "CTCG"
+   ],
+   "11": [
+    "CGGTAGA",
+    "CTCG"
+   ],
+   "12": [
+    "CTACGGA",
+    "CTCG"
+   ]
+  },
+  "B": {
+   "1": [
+    "CGCTT",
+    "CTCG"
+   ],
+   "2": [
+    "TCACG",
+    "CTCG"
+   ],
+   "3": [
+    "CTAGG",
+    "CTCG"
+   ],
+   "4": [
+    "ACAAA",
+    "CTCG"
+   ],
+   "5": [
+    "TTCTG",
+    "CTCG"
+   ],
+   "6": [
+    "AGCCG",
+    "CTCG"
+   ],
+   "7": [
+    "GTATT",
+    "CTCG"
+   ],
+   "8": [
+    "CTGTA",
+    "CTCG"
+   ],
+   "9": [
+    "ACCGT",
+    "CTCG"
+   ],
+   "10": [
+    "GCTTA",
+    "CTCG"
+   ],
+   "11": [
+    "GGTGT",
+    "CTCG"
+   ],
+   "12": [
+    "AGGAT",
+    "CTCG"
+   ]
+  },
+  "C": {
+   "1": [
+    "ATTGA",
+    "CTCG"
+   ],
+   "2": [
+    "CATCT",
+    "CTCG"
+   ],
+   "3": [
+    "CCTAG",
+    "CTCG"
+   ],
+   "4": [
+    "GAGGA",
+    "CTCG"
+   ],
+   "5": [
+    "GGAAG",
+    "CTCG"
+   ],
+   "6": [
+    "GTCAA",
+    "CTCG"
+   ],
+   "7": [
+    "TAATA",
+    "CTCG"
+   ],
+   "8": [
+    "TACAT",
+    "CTCG"
+   ],
+   "9": [
+    "TCGTT",
+    "CTCG"
+   ],
+   "10": [
+    "GGTTGT",
+    "CTCG"
+   ],
+   "11": [
+    "CCAGCT",
+    "CTCG"
+   ],
+   "12": [
+    "TTCAGA",
+    "CTCG"
+   ]
+  },
+  "A": {
+   "1": [
+    "CTCG",
+    "CTCG"
+   ],
+   "2": [
+    "TGCA",
+    "CTCG"
+   ],
+   "3": [
+    "ACTA",
+    "CTCG"
+   ],
+   "4": [
+    "CAGA",
+    "CTCG"
+   ],
+   "5": [
+    "AACT",
+    "CTCG"
+   ],
+   "6": [
+    "GCGT",
+    "CTCG"
+   ],
+   "7": [
+    "CGAT",
+    "CTCG"
+   ],
+   "8": [
+    "GTAA",
+    "CTCG"
+   ],
+   "9": [
+    "AGGG",
+    "CTCG"
+   ],
+   "10": [
+    "GATG",
+    "CTCG"
+   ],
+   "11": [
+    "TCAG",
+    "CTCG"
+   ],
+   "12": [
+    "TGCG",
+    "CTCG"
+   ]
+  },
+  "D": {
+   "1": [
+    "TAGGAA",
+    "CTCG"
+   ],
+   "2": [
+    "GCTCTA",
+    "CTCG"
+   ],
+   "3": [
+    "CCACAA",
+    "CTCG"
+   ],
+   "4": [
+    "CTTCCA",
+    "CTCG"
+   ],
+   "5": [
+    "GAGATA",
+    "CTCG"
+   ],
+   "6": [
+    "ATGCCT",
+    "CTCG"
+   ],
+   "7": [
+    "AGTGGA",
+    "CTCG"
+   ],
+   "8": [
+    "ACCTAA",
+    "CTCG"
+   ],
+   "9": [
+    "ATATGT",
+    "CTCG"
+   ],
+   "10": [
+    "ATCGTA",
+    "CTCG"
+   ],
+   "11": [
+    "CATCGT",
+    "CTCG"
+   ],
+   "12": [
+    "CGCGGT",
+    "CTCG"
+   ]
+  },
+  "H": {
+   "1": [
+    "CGCCTTAT",
+    "CTCG"
+   ],
+   "2": [
+    "AACCGAGA",
+    "CTCG"
+   ],
+   "3": [
+    "ACAGGGAA",
+    "CTCG"
+   ],
+   "4": [
+    "ACGTGGTA",
+    "CTCG"
+   ],
+   "5": [
+    "CCATGGGT",
+    "CTCG"
+   ],
+   "6": [
+    "CGCGGAGA",
+    "CTCG"
+   ],
+   "7": [
+    "CGTGTGGT",
+    "CTCG"
+   ],
+   "8": [
+    "GCTGTGGA",
+    "CTCG"
+   ],
+   "9": [
+    "GGATTGGT",
+    "CTCG"
+   ],
+   "10": [
+    "GTGAGGGT",
+    "CTCG"
+   ],
+   "11": [
+    "TATCGGGA",
+    "CTCG"
+   ],
+   "12": [
+    "TTCCTGGA",
+    "CTCG"
+   ]
+  }
+ },
+ "PstI_varG": {
+  "E": {
+   "1": [
+    "CTATTA",
+    "CCAGCT"
+   ],
+   "2": [
+    "GCCAGT",
+    "CCAGCT"
+   ],
+   "3": [
+    "GGAAGA",
+    "CCAGCT"
+   ],
+   "4": [
+    "GTACTT",
+    "CCAGCT"
+   ],
+   "5": [
+    "GTTGAA",
+    "CCAGCT"
+   ],
+   "6": [
+    "TAACGA",
+    "CCAGCT"
+   ],
+   "7": [
+    "TGGCTA",
+    "CCAGCT"
+   ],
+   "8": [
+    "TATTTTT",
+    "CCAGCT"
+   ],
+   "9": [
+    "CTTGCTT",
+    "CCAGCT"
+   ],
+   "10": [
+    "ATGAAAG",
+    "CCAGCT"
+   ],
+   "11": [
+    "AAAAGTT",
+    "CCAGCT"
+   ],
+   "12": [
+    "GAATTCA",
+    "CCAGCT"
+   ]
+  },
+  "G": {
+   "1": [
+    "GCGGAAT",
+    "CCAGCT"
+   ],
+   "2": [
+    "TAGCGGA",
+    "CCAGCT"
+   ],
+   "3": [
+    "TCGAAGA",
+    "CCAGCT"
+   ],
+   "4": [
+    "TCTGTGA",
+    "CCAGCT"
+   ],
+   "5": [
+    "TGCTGGA",
+    "CCAGCT"
+   ],
+   "6": [
+    "ACGACTAG",
+    "CCAGCT"
+   ],
+   "7": [
+    "TAGCATGG",
+    "CCAGCT"
+   ],
+   "8": [
+    "TAGGCCAT",
+    "CCAGCT"
+   ],
+   "9": [
+    "TGCAAGGA",
+    "CCAGCT"
+   ],
+   "10": [
+    "TGGTACGT",
+    "CCAGCT"
+   ],
+   "11": [
+    "TCTCAGTG",
+    "CCAGCT"
+   ],
+   "12": [
+    "CCGGATAT",
+    "CCAGCT"
+   ]
+  },
+  "F": {
+   "1": [
+    "GAACTTG",
+    "CCAGCT"
+   ],
+   "2": [
+    "GGACCTA",
+    "CCAGCT"
+   ],
+   "3": [
+    "GTCGATT",
+    "CCAGCT"
+   ],
+   "4": [
+    "AACGCCT",
+    "CCAGCT"
+   ],
+   "5": [
+    "AATATGG",
+    "CCAGCT"
+   ],
+   "6": [
+    "ACGTGTT",
+    "CCAGCT"
+   ],
+   "7": [
+    "ATTAATT",
+    "CCAGCT"
+   ],
+   "8": [
+    "ATTGGAT",
+    "CCAGCT"
+   ],
+   "9": [
+    "CATAAGT",
+    "CCAGCT"
+   ],
+   "10": [
+    "CGCTGAT",
+    "CCAGCT"
+   ],
+   "11": [
+    "CGGTAGA",
+    "CCAGCT"
+   ],
+   "12": [
+    "CTACGGA",
+    "CCAGCT"
+   ]
+  },
+  "B": {
+   "1": [
+    "CGCTT",
+    "CCAGCT"
+   ],
+   "2": [
+    "TCACG",
+    "CCAGCT"
+   ],
+   "3": [
+    "CTAGG",
+    "CCAGCT"
+   ],
+   "4": [
+    "ACAAA",
+    "CCAGCT"
+   ],
+   "5": [
+    "TTCTG",
+    "CCAGCT"
+   ],
+   "6": [
+    "AGCCG",
+    "CCAGCT"
+   ],
+   "7": [
+    "GTATT",
+    "CCAGCT"
+   ],
+   "8": [
+    "CTGTA",
+    "CCAGCT"
+   ],
+   "9": [
+    "ACCGT",
+    "CCAGCT"
+   ],
+   "10": [
+    "GCTTA",
+    "CCAGCT"
+   ],
+   "11": [
+    "GGTGT",
+    "CCAGCT"
+   ],
+   "12": [
+    "AGGAT",
+    "CCAGCT"
+   ]
+  },
+  "C": {
+   "1": [
+    "ATTGA",
+    "CCAGCT"
+   ],
+   "2": [
+    "CATCT",
+    "CCAGCT"
+   ],
+   "3": [
+    "CCTAG",
+    "CCAGCT"
+   ],
+   "4": [
+    "GAGGA",
+    "CCAGCT"
+   ],
+   "5": [
+    "GGAAG",
+    "CCAGCT"
+   ],
+   "6": [
+    "GTCAA",
+    "CCAGCT"
+   ],
+   "7": [
+    "TAATA",
+    "CCAGCT"
+   ],
+   "8": [
+    "TACAT",
+    "CCAGCT"
+   ],
+   "9": [
+    "TCGTT",
+    "CCAGCT"
+   ],
+   "10": [
+    "GGTTGT",
+    "CCAGCT"
+   ],
+   "11": [
+    "CCAGCT",
+    "CCAGCT"
+   ],
+   "12": [
+    "TTCAGA",
+    "CCAGCT"
+   ]
+  },
+  "A": {
+   "1": [
+    "CTCG",
+    "CCAGCT"
+   ],
+   "2": [
+    "TGCA",
+    "CCAGCT"
+   ],
+   "3": [
+    "ACTA",
+    "CCAGCT"
+   ],
+   "4": [
+    "CAGA",
+    "CCAGCT"
+   ],
+   "5": [
+    "AACT",
+    "CCAGCT"
+   ],
+   "6": [
+    "GCGT",
+    "CCAGCT"
+   ],
+   "7": [
+    "CGAT",
+    "CCAGCT"
+   ],
+   "8": [
+    "GTAA",
+    "CCAGCT"
+   ],
+   "9": [
+    "AGGG",
+    "CCAGCT"
+   ],
+   "10": [
+    "GATG",
+    "CCAGCT"
+   ],
+   "11": [
+    "TCAG",
+    "CCAGCT"
+   ],
+   "12": [
+    "TGCG",
+    "CCAGCT"
+   ]
+  },
+  "D": {
+   "1": [
+    "TAGGAA",
+    "CCAGCT"
+   ],
+   "2": [
+    "GCTCTA",
+    "CCAGCT"
+   ],
+   "3": [
+    "CCACAA",
+    "CCAGCT"
+   ],
+   "4": [
+    "CTTCCA",
+    "CCAGCT"
+   ],
+   "5": [
+    "GAGATA",
+    "CCAGCT"
+   ],
+   "6": [
+    "ATGCCT",
+    "CCAGCT"
+   ],
+   "7": [
+    "AGTGGA",
+    "CCAGCT"
+   ],
+   "8": [
+    "ACCTAA",
+    "CCAGCT"
+   ],
+   "9": [
+    "ATATGT",
+    "CCAGCT"
+   ],
+   "10": [
+    "ATCGTA",
+    "CCAGCT"
+   ],
+   "11": [
+    "CATCGT",
+    "CCAGCT"
+   ],
+   "12": [
+    "CGCGGT",
+    "CCAGCT"
+   ]
+  },
+  "H": {
+   "1": [
+    "CGCCTTAT",
+    "CCAGCT"
+   ],
+   "2": [
+    "AACCGAGA",
+    "CCAGCT"
+   ],
+   "3": [
+    "ACAGGGAA",
+    "CCAGCT"
+   ],
+   "4": [
+    "ACGTGGTA",
+    "CCAGCT"
+   ],
+   "5": [
+    "CCATGGGT",
+    "CCAGCT"
+   ],
+   "6": [
+    "CGCGGAGA",
+    "CCAGCT"
+   ],
+   "7": [
+    "CGTGTGGT",
+    "CCAGCT"
+   ],
+   "8": [
+    "GCTGTGGA",
+    "CCAGCT"
+   ],
+   "9": [
+    "GGATTGGT",
+    "CCAGCT"
+   ],
+   "10": [
+    "GTGAGGGT",
+    "CCAGCT"
+   ],
+   "11": [
+    "TATCGGGA",
+    "CCAGCT"
+   ],
+   "12": [
+    "TTCCTGGA",
+    "CCAGCT"
+   ]
+  }
+ },
+ "PstIAdapterPlate12": {
+  "E": {
+   "1": [
+    "CTATTA",
+    "GCGT"
+   ],
+   "2": [
+    "GCCAGT",
+    "GCGT"
+   ],
+   "3": [
+    "GGAAGA",
+    "GCGT"
+   ],
+   "4": [
+    "GTACTT",
+    "GCGT"
+   ],
+   "5": [
+    "GTTGAA",
+    "GCGT"
+   ],
+   "6": [
+    "TAACGA",
+    "GCGT"
+   ],
+   "7": [
+    "TGGCTA",
+    "GCGT"
+   ],
+   "8": [
+    "TATTTTT",
+    "GCGT"
+   ],
+   "9": [
+    "CTTGCTT",
+    "GCGT"
+   ],
+   "10": [
+    "ATGAAAG",
+    "GCGT"
+   ],
+   "11": [
+    "AAAAGTT",
+    "GCGT"
+   ],
+   "12": [
+    "GAATTCA",
+    "GCGT"
+   ]
+  },
+  "G": {
+   "1": [
+    "GCGGAAT",
+    "CTTGCTT"
+   ],
+   "2": [
+    "TAGCGGA",
+    "CTTGCTT"
+   ],
+   "3": [
+    "TCGAAGA",
+    "CTTGCTT"
+   ],
+   "4": [
+    "TCTGTGA",
+    "CTTGCTT"
+   ],
+   "5": [
+    "TGCTGGA",
+    "CTTGCTT"
+   ],
+   "6": [
+    "ACGACTAG",
+    "CTTGCTT"
+   ],
+   "7": [
+    "TAGCATGG",
+    "CTTGCTT"
+   ],
+   "8": [
+    "TAGGCCAT",
+    "CTTGCTT"
+   ],
+   "9": [
+    "TGCAAGGA",
+    "CTTGCTT"
+   ],
+   "10": [
+    "TGGTACGT",
+    "CTTGCTT"
+   ],
+   "11": [
+    "TCTCAGTG",
+    "CTTGCTT"
+   ],
+   "12": [
+    "CCGGATAT",
+    "CTTGCTT"
+   ]
+  },
+  "F": {
+   "1": [
+    "GAACTTG",
+    "GCGT"
+   ],
+   "2": [
+    "GGACCTA",
+    "GCGT"
+   ],
+   "3": [
+    "GTCGATT",
+    "GCGT"
+   ],
+   "4": [
+    "AACGCCT",
+    "GCGT"
+   ],
+   "5": [
+    "AATATGG",
+    "GCGT"
+   ],
+   "6": [
+    "ACGTGTT",
+    "GCGT"
+   ],
+   "7": [
+    "ATTAATT",
+    "GCGT"
+   ],
+   "8": [
+    "ATTGGAT",
+    "GCGT"
+   ],
+   "9": [
+    "CATAAGT",
+    "GCGT"
+   ],
+   "10": [
+    "CGCTGAT",
+    "GCGT"
+   ],
+   "11": [
+    "CGGTAGA",
+    "GCGT"
+   ],
+   "12": [
+    "CTACGGA",
+    "GCGT"
+   ]
+  },
+  "B": {
+   "1": [
+    "CGCTT",
+    "TTCAGA"
+   ],
+   "2": [
+    "TCACG",
+    "TTCAGA"
+   ],
+   "3": [
+    "CTAGG",
+    "TTCAGA"
+   ],
+   "4": [
+    "ACAAA",
+    "TTCAGA"
+   ],
+   "5": [
+    "TTCTG",
+    "TTCAGA"
+   ],
+   "6": [
+    "AGCCG",
+    "TTCAGA"
+   ],
+   "7": [
+    "GTATT",
+    "TTCAGA"
+   ],
+   "8": [
+    "CTGTA",
+    "TTCAGA"
+   ],
+   "9": [
+    "ACCGT",
+    "TTCAGA"
+   ],
+   "10": [
+    "GCTTA",
+    "TTCAGA"
+   ],
+   "11": [
+    "GGTGT",
+    "TTCAGA"
+   ],
+   "12": [
+    "AGGAT",
+    "TTCAGA"
+   ]
+  },
+  "C": {
+   "1": [
+    "ATTGA",
+    "TCACG"
+   ],
+   "2": [
+    "CATCT",
+    "TCACG"
+   ],
+   "3": [
+    "CCTAG",
+    "TCACG"
+   ],
+   "4": [
+    "GAGGA",
+    "TCACG"
+   ],
+   "5": [
+    "GGAAG",
+    "TCACG"
+   ],
+   "6": [
+    "GTCAA",
+    "TCACG"
+   ],
+   "7": [
+    "TAATA",
+    "TCACG"
+   ],
+   "8": [
+    "TACAT",
+    "TCACG"
+   ],
+   "9": [
+    "TCGTT",
+    "TCACG"
+   ],
+   "10": [
+    "GGTTGT",
+    "TCACG"
+   ],
+   "11": [
+    "CCAGCT",
+    "TCACG"
+   ],
+   "12": [
+    "TTCAGA",
+    "TCACG"
+   ]
+  },
+  "A": {
+   "1": [
+    "CTCG",
+    "TTCAGA"
+   ],
+   "2": [
+    "TGCA",
+    "TTCAGA"
+   ],
+   "3": [
+    "ACTA",
+    "TTCAGA"
+   ],
+   "4": [
+    "CAGA",
+    "TTCAGA"
+   ],
+   "5": [
+    "AACT",
+    "TTCAGA"
+   ],
+   "6": [
+    "GCGT",
+    "TTCAGA"
+   ],
+   "7": [
+    "CGAT",
+    "TTCAGA"
+   ],
+   "8": [
+    "GTAA",
+    "TTCAGA"
+   ],
+   "9": [
+    "AGGG",
+    "TTCAGA"
+   ],
+   "10": [
+    "GATG",
+    "TTCAGA"
+   ],
+   "11": [
+    "TCAG",
+    "TTCAGA"
+   ],
+   "12": [
+    "TGCG",
+    "TTCAGA"
+   ]
+  },
+  "D": {
+   "1": [
+    "TAGGAA",
+    "TCACG"
+   ],
+   "2": [
+    "GCTCTA",
+    "TCACG"
+   ],
+   "3": [
+    "CCACAA",
+    "TCACG"
+   ],
+   "4": [
+    "CTTCCA",
+    "TCACG"
+   ],
+   "5": [
+    "GAGATA",
+    "TCACG"
+   ],
+   "6": [
+    "ATGCCT",
+    "TCACG"
+   ],
+   "7": [
+    "AGTGGA",
+    "TCACG"
+   ],
+   "8": [
+    "ACCTAA",
+    "TCACG"
+   ],
+   "9": [
+    "ATATGT",
+    "TCACG"
+   ],
+   "10": [
+    "ATCGTA",
+    "TCACG"
+   ],
+   "11": [
+    "CATCGT",
+    "TCACG"
+   ],
+   "12": [
+    "CGCGGT",
+    "TCACG"
+   ]
+  },
+  "H": {
+   "1": [
+    "CGCCTTAT",
+    "CTTGCTT"
+   ],
+   "2": [
+    "AACCGAGA",
+    "CTTGCTT"
+   ],
+   "3": [
+    "ACAGGGAA",
+    "CTTGCTT"
+   ],
+   "4": [
+    "ACGTGGTA",
+    "CTTGCTT"
+   ],
+   "5": [
+    "CCATGGGT",
+    "CTTGCTT"
+   ],
+   "6": [
+    "CGCGGAGA",
+    "CTTGCTT"
+   ],
+   "7": [
+    "CGTGTGGT",
+    "CTTGCTT"
+   ],
+   "8": [
+    "GCTGTGGA",
+    "CTTGCTT"
+   ],
+   "9": [
+    "GGATTGGT",
+    "CTTGCTT"
+   ],
+   "10": [
+    "GTGAGGGT",
+    "CTTGCTT"
+   ],
+   "11": [
+    "TATCGGGA",
+    "CTTGCTT"
+   ],
+   "12": [
+    "TTCCTGGA",
+    "CTTGCTT"
+   ]
+  }
+ },
+ "PstIAdapterPlate2": {
+  "E": {
+   "1": [
+    "CTATTA",
+    "ACTA"
+   ],
+   "2": [
+    "GCCAGT",
+    "ACTA"
+   ],
+   "3": [
+    "GGAAGA",
+    "ACTA"
+   ],
+   "4": [
+    "GTACTT",
+    "ACTA"
+   ],
+   "5": [
+    "GTTGAA",
+    "ACTA"
+   ],
+   "6": [
+    "TAACGA",
+    "ACTA"
+   ],
+   "7": [
+    "TGGCTA",
+    "ACTA"
+   ],
+   "8": [
+    "TATTTTT",
+    "ACTA"
+   ],
+   "9": [
+    "CTTGCTT",
+    "ACTA"
+   ],
+   "10": [
+    "ATGAAAG",
+    "ACTA"
+   ],
+   "11": [
+    "AAAAGTT",
+    "ACTA"
+   ],
+   "12": [
+    "GAATTCA",
+    "ACTA"
+   ]
+  },
+  "G": {
+   "1": [
+    "GCGGAAT",
+    "CGCTT"
+   ],
+   "2": [
+    "TAGCGGA",
+    "CGCTT"
+   ],
+   "3": [
+    "TCGAAGA",
+    "CGCTT"
+   ],
+   "4": [
+    "TCTGTGA",
+    "CGCTT"
+   ],
+   "5": [
+    "TGCTGGA",
+    "CGCTT"
+   ],
+   "6": [
+    "ACGACTAG",
+    "CGCTT"
+   ],
+   "7": [
+    "TAGCATGG",
+    "CGCTT"
+   ],
+   "8": [
+    "TAGGCCAT",
+    "CGCTT"
+   ],
+   "9": [
+    "TGCAAGGA",
+    "CGCTT"
+   ],
+   "10": [
+    "TGGTACGT",
+    "CGCTT"
+   ],
+   "11": [
+    "TCTCAGTG",
+    "CGCTT"
+   ],
+   "12": [
+    "CCGGATAT",
+    "CGCTT"
+   ]
+  },
+  "F": {
+   "1": [
+    "GAACTTG",
+    "TGCGA"
+   ],
+   "2": [
+    "GGACCTA",
+    "TGCGA"
+   ],
+   "3": [
+    "GTCGATT",
+    "TGCGA"
+   ],
+   "4": [
+    "AACGCCT",
+    "TGCGA"
+   ],
+   "5": [
+    "AATATGG",
+    "TGCGA"
+   ],
+   "6": [
+    "ACGTGTT",
+    "TGCGA"
+   ],
+   "7": [
+    "ATTAATT",
+    "TGCGA"
+   ],
+   "8": [
+    "ATTGGAT",
+    "TGCGA"
+   ],
+   "9": [
+    "CATAAGT",
+    "TGCGA"
+   ],
+   "10": [
+    "CGCTGAT",
+    "TGCGA"
+   ],
+   "11": [
+    "CGGTAGA",
+    "TGCGA"
+   ],
+   "12": [
+    "CTACGGA",
+    "TGCGA"
+   ]
+  },
+  "B": {
+   "1": [
+    "CGCTT",
+    "ATGAAAG"
+   ],
+   "2": [
+    "TCACG",
+    "ATGAAAG"
+   ],
+   "3": [
+    "CTAGG",
+    "ATGAAAG"
+   ],
+   "4": [
+    "ACAAA",
+    "ATGAAAG"
+   ],
+   "5": [
+    "TTCTG",
+    "ATGAAAG"
+   ],
+   "6": [
+    "AGCCG",
+    "ATGAAAG"
+   ],
+   "7": [
+    "GTATT",
+    "ATGAAAG"
+   ],
+   "8": [
+    "CTGTA",
+    "ATGAAAG"
+   ],
+   "9": [
+    "ACCGT",
+    "ATGAAAG"
+   ],
+   "10": [
+    "GCTTA",
+    "ATGAAAG"
+   ],
+   "11": [
+    "GGTGT",
+    "ATGAAAG"
+   ],
+   "12": [
+    "AGGAT",
+    "ATGAAAG"
+   ]
+  },
+  "C": {
+   "1": [
+    "ATTGA",
+    "CTCG"
+   ],
+   "2": [
+    "CATCT",
+    "CTCG"
+   ],
+   "3": [
+    "CCTAG",
+    "CTCG"
+   ],
+   "4": [
+    "GAGGA",
+    "CTCG"
+   ],
+   "5": [
+    "GGAAG",
+    "CTCG"
+   ],
+   "6": [
+    "GTCAA",
+    "CTCG"
+   ],
+   "7": [
+    "TAATA",
+    "CTCG"
+   ],
+   "8": [
+    "TACAT",
+    "CTCG"
+   ],
+   "9": [
+    "TCGTT",
+    "CTCG"
+   ],
+   "10": [
+    "GGTTGT",
+    "CTCG"
+   ],
+   "11": [
+    "CCAGCT",
+    "CTCG"
+   ],
+   "12": [
+    "TTCAGA",
+    "CTCG"
+   ]
+  },
+  "A": {
+   "1": [
+    "CTCG",
+    "CCAGCT"
+   ],
+   "2": [
+    "TGCA",
+    "CCAGCT"
+   ],
+   "3": [
+    "ACTA",
+    "CCAGCT"
+   ],
+   "4": [
+    "CAGA",
+    "CCAGCT"
+   ],
+   "5": [
+    "AACT",
+    "CCAGCT"
+   ],
+   "6": [
+    "GCGT",
+    "CCAGCT"
+   ],
+   "7": [
+    "CGAT",
+    "CCAGCT"
+   ],
+   "8": [
+    "GTAA",
+    "CCAGCT"
+   ],
+   "9": [
+    "AGGG",
+    "CCAGCT"
+   ],
+   "10": [
+    "GATG",
+    "CCAGCT"
+   ],
+   "11": [
+    "TCAG",
+    "CCAGCT"
+   ],
+   "12": [
+    "TGCG",
+    "CCAGCT"
+   ]
+  },
+  "D": {
+   "1": [
+    "TAGGAA",
+    "ACGACTAG"
+   ],
+   "2": [
+    "GCTCTA",
+    "ACGACTAG"
+   ],
+   "3": [
+    "CCACAA",
+    "ACGACTAG"
+   ],
+   "4": [
+    "CTTCCA",
+    "ACGACTAG"
+   ],
+   "5": [
+    "GAGATA",
+    "ACGACTAG"
+   ],
+   "6": [
+    "ATGCCT",
+    "ACGACTAG"
+   ],
+   "7": [
+    "AGTGGA",
+    "ACGACTAG"
+   ],
+   "8": [
+    "ACCTAA",
+    "ACGACTAG"
+   ],
+   "9": [
+    "ATATGT",
+    "ACGACTAG"
+   ],
+   "10": [
+    "ATCGTA",
+    "ACGACTAG"
+   ],
+   "11": [
+    "CATCGT",
+    "ACGACTAG"
+   ],
+   "12": [
+    "CGCGGT",
+    "ACGACTAG"
+   ]
+  },
+  "H": {
+   "1": [
+    "CGCCTTAT",
+    "GGTTGT"
+   ],
+   "2": [
+    "AACCGAGA",
+    "GGTTGT"
+   ],
+   "3": [
+    "ACAGGGAA",
+    "GGTTGT"
+   ],
+   "4": [
+    "ACGTGGTA",
+    "GGTTGT"
+   ],
+   "5": [
+    "CCATGGGT",
+    "GGTTGT"
+   ],
+   "6": [
+    "CGCGGAGA",
+    "GGTTGT"
+   ],
+   "7": [
+    "CGTGTGGT",
+    "GGTTGT"
+   ],
+   "8": [
+    "GCTGTGGA",
+    "GGTTGT"
+   ],
+   "9": [
+    "GGATTGGT",
+    "GGTTGT"
+   ],
+   "10": [
+    "GTGAGGGT",
+    "GGTTGT"
+   ],
+   "11": [
+    "TATCGGGA",
+    "GGTTGT"
+   ],
+   "12": [
+    "TTCCTGGA",
+    "GGTTGT"
+   ]
+  }
+ },
+ "PstIAdapterPlate8": {
+  "E": {
+   "1": [
+    "CTATTA",
+    "CGCTT"
+   ],
+   "2": [
+    "GCCAGT",
+    "CGCTT"
+   ],
+   "3": [
+    "GGAAGA",
+    "CGCTT"
+   ],
+   "4": [
+    "GTACTT",
+    "CGCTT"
+   ],
+   "5": [
+    "GTTGAA",
+    "CGCTT"
+   ],
+   "6": [
+    "TAACGA",
+    "CGCTT"
+   ],
+   "7": [
+    "TGGCTA",
+    "CGCTT"
+   ],
+   "8": [
+    "TATTTTT",
+    "CGCTT"
+   ],
+   "9": [
+    "CTTGCTT",
+    "CGCTT"
+   ],
+   "10": [
+    "ATGAAAG",
+    "CGCTT"
+   ],
+   "11": [
+    "AAAAGTT",
+    "CGCTT"
+   ],
+   "12": [
+    "GAATTCA",
+    "CGCTT"
+   ]
+  },
+  "G": {
+   "1": [
+    "GCGGAAT",
+    "CCAGCT"
+   ],
+   "2": [
+    "TAGCGGA",
+    "CCAGCT"
+   ],
+   "3": [
+    "TCGAAGA",
+    "CCAGCT"
+   ],
+   "4": [
+    "TCTGTGA",
+    "CCAGCT"
+   ],
+   "5": [
+    "TGCTGGA",
+    "CCAGCT"
+   ],
+   "6": [
+    "ACGACTAG",
+    "CCAGCT"
+   ],
+   "7": [
+    "TAGCATGG",
+    "CCAGCT"
+   ],
+   "8": [
+    "TAGGCCAT",
+    "CCAGCT"
+   ],
+   "9": [
+    "TGCAAGGA",
+    "CCAGCT"
+   ],
+   "10": [
+    "TGGTACGT",
+    "CCAGCT"
+   ],
+   "11": [
+    "TCTCAGTG",
+    "CCAGCT"
+   ],
+   "12": [
+    "CCGGATAT",
+    "CCAGCT"
+   ]
+  },
+  "F": {
+   "1": [
+    "GAACTTG",
+    "GGTTGT"
+   ],
+   "2": [
+    "GGACCTA",
+    "GGTTGT"
+   ],
+   "3": [
+    "GTCGATT",
+    "GGTTGT"
+   ],
+   "4": [
+    "AACGCCT",
+    "GGTTGT"
+   ],
+   "5": [
+    "AATATGG",
+    "GGTTGT"
+   ],
+   "6": [
+    "ACGTGTT",
+    "GGTTGT"
+   ],
+   "7": [
+    "ATTAATT",
+    "GGTTGT"
+   ],
+   "8": [
+    "ATTGGAT",
+    "GGTTGT"
+   ],
+   "9": [
+    "CATAAGT",
+    "GGTTGT"
+   ],
+   "10": [
+    "CGCTGAT",
+    "GGTTGT"
+   ],
+   "11": [
+    "CGGTAGA",
+    "GGTTGT"
+   ],
+   "12": [
+    "CTACGGA",
+    "GGTTGT"
+   ]
+  },
+  "B": {
+   "1": [
+    "CGCTT",
+    "ACGACTAG"
+   ],
+   "2": [
+    "TCACG",
+    "ACGACTAG"
+   ],
+   "3": [
+    "CTAGG",
+    "ACGACTAG"
+   ],
+   "4": [
+    "ACAAA",
+    "ACGACTAG"
+   ],
+   "5": [
+    "TTCTG",
+    "ACGACTAG"
+   ],
+   "6": [
+    "AGCCG",
+    "ACGACTAG"
+   ],
+   "7": [
+    "GTATT",
+    "ACGACTAG"
+   ],
+   "8": [
+    "CTGTA",
+    "ACGACTAG"
+   ],
+   "9": [
+    "ACCGT",
+    "ACGACTAG"
+   ],
+   "10": [
+    "GCTTA",
+    "ACGACTAG"
+   ],
+   "11": [
+    "GGTGT",
+    "ACGACTAG"
+   ],
+   "12": [
+    "AGGAT",
+    "ACGACTAG"
+   ]
+  },
+  "C": {
+   "1": [
+    "ATTGA",
+    "ACTA"
+   ],
+   "2": [
+    "CATCT",
+    "ACTA"
+   ],
+   "3": [
+    "CCTAG",
+    "ACTA"
+   ],
+   "4": [
+    "GAGGA",
+    "ACTA"
+   ],
+   "5": [
+    "GGAAG",
+    "ACTA"
+   ],
+   "6": [
+    "GTCAA",
+    "ACTA"
+   ],
+   "7": [
+    "TAATA",
+    "ACTA"
+   ],
+   "8": [
+    "TACAT",
+    "ACTA"
+   ],
+   "9": [
+    "TCGTT",
+    "ACTA"
+   ],
+   "10": [
+    "GGTTGT",
+    "ACTA"
+   ],
+   "11": [
+    "CCAGCT",
+    "ACTA"
+   ],
+   "12": [
+    "TTCAGA",
+    "ACTA"
+   ]
+  },
+  "A": {
+   "1": [
+    "CTCG",
+    "CTCG"
+   ],
+   "2": [
+    "TGCA",
+    "CTCG"
+   ],
+   "3": [
+    "ACTA",
+    "CTCG"
+   ],
+   "4": [
+    "CAGA",
+    "CTCG"
+   ],
+   "5": [
+    "AACT",
+    "CTCG"
+   ],
+   "6": [
+    "GCGT",
+    "CTCG"
+   ],
+   "7": [
+    "CGAT",
+    "CTCG"
+   ],
+   "8": [
+    "GTAA",
+    "CTCG"
+   ],
+   "9": [
+    "AGGG",
+    "CTCG"
+   ],
+   "10": [
+    "GATG",
+    "CTCG"
+   ],
+   "11": [
+    "TCAG",
+    "CTCG"
+   ],
+   "12": [
+    "TGCG",
+    "CTCG"
+   ]
+  },
+  "D": {
+   "1": [
+    "TAGGAA",
+    "TGCGA"
+   ],
+   "2": [
+    "GCTCTA",
+    "TGCGA"
+   ],
+   "3": [
+    "CCACAA",
+    "TGCGA"
+   ],
+   "4": [
+    "CTTCCA",
+    "TGCGA"
+   ],
+   "5": [
+    "GAGATA",
+    "TGCGA"
+   ],
+   "6": [
+    "ATGCCT",
+    "TGCGA"
+   ],
+   "7": [
+    "AGTGGA",
+    "TGCGA"
+   ],
+   "8": [
+    "ACCTAA",
+    "TGCGA"
+   ],
+   "9": [
+    "ATATGT",
+    "TGCGA"
+   ],
+   "10": [
+    "ATCGTA",
+    "TGCGA"
+   ],
+   "11": [
+    "CATCGT",
+    "TGCGA"
+   ],
+   "12": [
+    "CGCGGT",
+    "TGCGA"
+   ]
+  },
+  "H": {
+   "1": [
+    "CGCCTTAT",
+    "ATGAAAG"
+   ],
+   "2": [
+    "AACCGAGA",
+    "ATGAAAG"
+   ],
+   "3": [
+    "ACAGGGAA",
+    "ATGAAAG"
+   ],
+   "4": [
+    "ACGTGGTA",
+    "ATGAAAG"
+   ],
+   "5": [
+    "CCATGGGT",
+    "ATGAAAG"
+   ],
+   "6": [
+    "CGCGGAGA",
+    "ATGAAAG"
+   ],
+   "7": [
+    "CGTGTGGT",
+    "ATGAAAG"
+   ],
+   "8": [
+    "GCTGTGGA",
+    "ATGAAAG"
+   ],
+   "9": [
+    "GGATTGGT",
+    "ATGAAAG"
+   ],
+   "10": [
+    "GTGAGGGT",
+    "ATGAAAG"
+   ],
+   "11": [
+    "TATCGGGA",
+    "ATGAAAG"
+   ],
+   "12": [
+    "TTCCTGGA",
+    "ATGAAAG"
+   ]
+  }
+ },
+ "CCGGplate6": {
+  "E": {
+   "1": [
+    "ttcaga",
+    "cttcc"
+   ],
+   "2": [
+    "taggaa",
+    "cttcc"
+   ],
+   "3": [
+    "gctcta",
+    "cttcc"
+   ],
+   "4": [
+    "ccacaa",
+    "cttcc"
+   ],
+   "5": [
+    "tgcga",
+    "cttcc"
+   ],
+   "6": [
+    "cttcca",
+    "cttcc"
+   ],
+   "7": [
+    "gagata",
+    "cttcc"
+   ],
+   "8": [
+    "atgcct",
+    "cttcc"
+   ],
+   "9": [
+    "tattttt",
+    "cttcc"
+   ],
+   "10": [
+    "cttgctt",
+    "cttcc"
+   ],
+   "11": [
+    "atgaaag",
+    "cttcc"
+   ],
+   "12": [
+    "aaaagtt",
+    "cttcc"
+   ]
+  },
+  "G": {
+   "1": [
+    "ttcaga",
+    "tatta"
+   ],
+   "2": [
+    "taggaa",
+    "tatta"
+   ],
+   "3": [
+    "gctcta",
+    "tatta"
+   ],
+   "4": [
+    "ccacaa",
+    "tatta"
+   ],
+   "5": [
+    "tgcga",
+    "tatta"
+   ],
+   "6": [
+    "cttcca",
+    "tatta"
+   ],
+   "7": [
+    "gagata",
+    "tatta"
+   ],
+   "8": [
+    "atgcct",
+    "tatta"
+   ],
+   "9": [
+    "tattttt",
+    "tatta"
+   ],
+   "10": [
+    "cttgctt",
+    "tatta"
+   ],
+   "11": [
+    "atgaaag",
+    "tatta"
+   ],
+   "12": [
+    "aaaagtt",
+    "tatta"
+   ]
+  },
+  "F": {
+   "1": [
+    "ttcaga",
+    "ttgac"
+   ],
+   "2": [
+    "taggaa",
+    "ttgac"
+   ],
+   "3": [
+    "gctcta",
+    "ttgac"
+   ],
+   "4": [
+    "ccacaa",
+    "ttgac"
+   ],
+   "5": [
+    "tgcga",
+    "ttgac"
+   ],
+   "6": [
+    "cttcca",
+    "ttgac"
+   ],
+   "7": [
+    "gagata",
+    "ttgac"
+   ],
+   "8": [
+    "atgcct",
+    "ttgac"
+   ],
+   "9": [
+    "tattttt",
+    "ttgac"
+   ],
+   "10": [
+    "cttgctt",
+    "ttgac"
+   ],
+   "11": [
+    "atgaaag",
+    "ttgac"
+   ],
+   "12": [
+    "aaaagtt",
+    "ttgac"
+   ]
+  },
+  "B": {
+   "1": [
+    "ttcaga",
+    "agatg"
+   ],
+   "2": [
+    "taggaa",
+    "agatg"
+   ],
+   "3": [
+    "gctcta",
+    "agatg"
+   ],
+   "4": [
+    "ccacaa",
+    "agatg"
+   ],
+   "5": [
+    "tgcga",
+    "agatg"
+   ],
+   "6": [
+    "cttcca",
+    "agatg"
+   ],
+   "7": [
+    "gagata",
+    "agatg"
+   ],
+   "8": [
+    "atgcct",
+    "agatg"
+   ],
+   "9": [
+    "tattttt",
+    "agatg"
+   ],
+   "10": [
+    "cttgctt",
+    "agatg"
+   ],
+   "11": [
+    "atgaaag",
+    "agatg"
+   ],
+   "12": [
+    "aaaagtt",
+    "agatg"
+   ]
+  },
+  "C": {
+   "1": [
+    "ttcaga",
+    "ctagg"
+   ],
+   "2": [
+    "taggaa",
+    "ctagg"
+   ],
+   "3": [
+    "gctcta",
+    "ctagg"
+   ],
+   "4": [
+    "ccacaa",
+    "ctagg"
+   ],
+   "5": [
+    "tgcga",
+    "ctagg"
+   ],
+   "6": [
+    "cttcca",
+    "ctagg"
+   ],
+   "7": [
+    "gagata",
+    "ctagg"
+   ],
+   "8": [
+    "atgcct",
+    "ctagg"
+   ],
+   "9": [
+    "tattttt",
+    "ctagg"
+   ],
+   "10": [
+    "cttgctt",
+    "ctagg"
+   ],
+   "11": [
+    "atgaaag",
+    "ctagg"
+   ],
+   "12": [
+    "aaaagtt",
+    "ctagg"
+   ]
+  },
+  "A": {
+   "1": [
+    "ttcaga",
+    "tcaat"
+   ],
+   "2": [
+    "taggaa",
+    "tcaat"
+   ],
+   "3": [
+    "gctcta",
+    "tcaat"
+   ],
+   "4": [
+    "ccacaa",
+    "tcaat"
+   ],
+   "5": [
+    "tgcga",
+    "tcaat"
+   ],
+   "6": [
+    "cttcca",
+    "tcaat"
+   ],
+   "7": [
+    "gagata",
+    "tcaat"
+   ],
+   "8": [
+    "atgcct",
+    "tcaat"
+   ],
+   "9": [
+    "tattttt",
+    "tcaat"
+   ],
+   "10": [
+    "cttgctt",
+    "tcaat"
+   ],
+   "11": [
+    "atgaaag",
+    "tcaat"
+   ],
+   "12": [
+    "aaaagtt",
+    "tcaat"
+   ]
+  },
+  "D": {
+   "1": [
+    "ttcaga",
+    "tcctc"
+   ],
+   "2": [
+    "taggaa",
+    "tcctc"
+   ],
+   "3": [
+    "gctcta",
+    "tcctc"
+   ],
+   "4": [
+    "ccacaa",
+    "tcctc"
+   ],
+   "5": [
+    "tgcga",
+    "tcctc"
+   ],
+   "6": [
+    "cttcca",
+    "tcctc"
+   ],
+   "7": [
+    "gagata",
+    "tcctc"
+   ],
+   "8": [
+    "atgcct",
+    "tcctc"
+   ],
+   "9": [
+    "tattttt",
+    "tcctc"
+   ],
+   "10": [
+    "cttgctt",
+    "tcctc"
+   ],
+   "11": [
+    "atgaaag",
+    "tcctc"
+   ],
+   "12": [
+    "aaaagtt",
+    "tcctc"
+   ]
+  },
+  "H": {
+   "1": [
+    "ttcaga",
+    "atgta"
+   ],
+   "2": [
+    "taggaa",
+    "atgta"
+   ],
+   "3": [
+    "gctcta",
+    "atgta"
+   ],
+   "4": [
+    "ccacaa",
+    "atgta"
+   ],
+   "5": [
+    "tgcga",
+    "atgta"
+   ],
+   "6": [
+    "cttcca",
+    "atgta"
+   ],
+   "7": [
+    "gagata",
+    "atgta"
+   ],
+   "8": [
+    "atgcct",
+    "atgta"
+   ],
+   "9": [
+    "tattttt",
+    "atgta"
+   ],
+   "10": [
+    "cttgctt",
+    "atgta"
+   ],
+   "11": [
+    "atgaaag",
+    "atgta"
+   ],
+   "12": [
+    "aaaagtt",
+    "atgta"
+   ]
+  }
+ },
+ "CCGGplate1": {
+  "E": {
+   "1": [
+    "accgt",
+    "aacgcct"
+   ],
+   "2": [
+    "tcacg",
+    "aacgcct"
+   ],
+   "3": [
+    "ctagg",
+    "aacgcct"
+   ],
+   "4": [
+    "acaaa",
+    "aacgcct"
+   ],
+   "5": [
+    "ttctg",
+    "aacgcct"
+   ],
+   "6": [
+    "agccg",
+    "aacgcct"
+   ],
+   "7": [
+    "gtatt",
+    "aacgcct"
+   ],
+   "8": [
+    "ctgta",
+    "aacgcct"
+   ],
+   "9": [
+    "cgctt",
+    "aacgcct"
+   ],
+   "10": [
+    "gctta",
+    "aacgcct"
+   ],
+   "11": [
+    "ggtgt",
+    "aacgcct"
+   ],
+   "12": [
+    "ccagct",
+    "aacgcct"
+   ]
+  },
+  "G": {
+   "1": [
+    "accgt",
+    "acgactag"
+   ],
+   "2": [
+    "tcacg",
+    "acgactag"
+   ],
+   "3": [
+    "ctagg",
+    "acgactag"
+   ],
+   "4": [
+    "acaaa",
+    "acgactag"
+   ],
+   "5": [
+    "ttctg",
+    "acgactag"
+   ],
+   "6": [
+    "agccg",
+    "acgactag"
+   ],
+   "7": [
+    "gtatt",
+    "acgactag"
+   ],
+   "8": [
+    "ctgta",
+    "acgactag"
+   ],
+   "9": [
+    "cgctt",
+    "acgactag"
+   ],
+   "10": [
+    "gctta",
+    "acgactag"
+   ],
+   "11": [
+    "ggtgt",
+    "acgactag"
+   ],
+   "12": [
+    "ccagct",
+    "acgactag"
+   ]
+  },
+  "F": {
+   "1": [
+    "accgt",
+    "aatatgg"
+   ],
+   "2": [
+    "tcacg",
+    "aatatgg"
+   ],
+   "3": [
+    "ctagg",
+    "aatatgg"
+   ],
+   "4": [
+    "acaaa",
+    "aatatgg"
+   ],
+   "5": [
+    "ttctg",
+    "aatatgg"
+   ],
+   "6": [
+    "agccg",
+    "aatatgg"
+   ],
+   "7": [
+    "gtatt",
+    "aatatgg"
+   ],
+   "8": [
+    "ctgta",
+    "aatatgg"
+   ],
+   "9": [
+    "cgctt",
+    "aatatgg"
+   ],
+   "10": [
+    "gctta",
+    "aatatgg"
+   ],
+   "11": [
+    "ggtgt",
+    "aatatgg"
+   ],
+   "12": [
+    "ccagct",
+    "aatatgg"
+   ]
+  },
+  "B": {
+   "1": [
+    "accgt",
+    "gaacttg"
+   ],
+   "2": [
+    "tcacg",
+    "gaacttg"
+   ],
+   "3": [
+    "ctagg",
+    "gaacttg"
+   ],
+   "4": [
+    "acaaa",
+    "gaacttg"
+   ],
+   "5": [
+    "ttctg",
+    "gaacttg"
+   ],
+   "6": [
+    "agccg",
+    "gaacttg"
+   ],
+   "7": [
+    "gtatt",
+    "gaacttg"
+   ],
+   "8": [
+    "ctgta",
+    "gaacttg"
+   ],
+   "9": [
+    "cgctt",
+    "gaacttg"
+   ],
+   "10": [
+    "gctta",
+    "gaacttg"
+   ],
+   "11": [
+    "ggtgt",
+    "gaacttg"
+   ],
+   "12": [
+    "ccagct",
+    "gaacttg"
+   ]
+  },
+  "C": {
+   "1": [
+    "accgt",
+    "ggaccta"
+   ],
+   "2": [
+    "tcacg",
+    "ggaccta"
+   ],
+   "3": [
+    "ctagg",
+    "ggaccta"
+   ],
+   "4": [
+    "acaaa",
+    "ggaccta"
+   ],
+   "5": [
+    "ttctg",
+    "ggaccta"
+   ],
+   "6": [
+    "agccg",
+    "ggaccta"
+   ],
+   "7": [
+    "gtatt",
+    "ggaccta"
+   ],
+   "8": [
+    "ctgta",
+    "ggaccta"
+   ],
+   "9": [
+    "cgctt",
+    "ggaccta"
+   ],
+   "10": [
+    "gctta",
+    "ggaccta"
+   ],
+   "11": [
+    "ggtgt",
+    "ggaccta"
+   ],
+   "12": [
+    "ccagct",
+    "ggaccta"
+   ]
+  },
+  "A": {
+   "1": [
+    "accgt",
+    "gaattca"
+   ],
+   "2": [
+    "tcacg",
+    "gaattca"
+   ],
+   "3": [
+    "ctagg",
+    "gaattca"
+   ],
+   "4": [
+    "acaaa",
+    "gaattca"
+   ],
+   "5": [
+    "ttctg",
+    "gaattca"
+   ],
+   "6": [
+    "agccg",
+    "gaattca"
+   ],
+   "7": [
+    "gtatt",
+    "gaattca"
+   ],
+   "8": [
+    "ctgta",
+    "gaattca"
+   ],
+   "9": [
+    "cgctt",
+    "gaattca"
+   ],
+   "10": [
+    "gctta",
+    "gaattca"
+   ],
+   "11": [
+    "ggtgt",
+    "gaattca"
+   ],
+   "12": [
+    "ccagct",
+    "gaattca"
+   ]
+  },
+  "D": {
+   "1": [
+    "accgt",
+    "gtcgatt"
+   ],
+   "2": [
+    "tcacg",
+    "gtcgatt"
+   ],
+   "3": [
+    "ctagg",
+    "gtcgatt"
+   ],
+   "4": [
+    "acaaa",
+    "gtcgatt"
+   ],
+   "5": [
+    "ttctg",
+    "gtcgatt"
+   ],
+   "6": [
+    "agccg",
+    "gtcgatt"
+   ],
+   "7": [
+    "gtatt",
+    "gtcgatt"
+   ],
+   "8": [
+    "ctgta",
+    "gtcgatt"
+   ],
+   "9": [
+    "cgctt",
+    "gtcgatt"
+   ],
+   "10": [
+    "gctta",
+    "gtcgatt"
+   ],
+   "11": [
+    "ggtgt",
+    "gtcgatt"
+   ],
+   "12": [
+    "ccagct",
+    "gtcgatt"
+   ]
+  },
+  "H": {
+   "1": [
+    "accgt",
+    "agtgga"
+   ],
+   "2": [
+    "tcacg",
+    "agtgga"
+   ],
+   "3": [
+    "ctagg",
+    "agtgga"
+   ],
+   "4": [
+    "acaaa",
+    "agtgga"
+   ],
+   "5": [
+    "ttctg",
+    "agtgga"
+   ],
+   "6": [
+    "agccg",
+    "agtgga"
+   ],
+   "7": [
+    "gtatt",
+    "agtgga"
+   ],
+   "8": [
+    "ctgta",
+    "agtgga"
+   ],
+   "9": [
+    "cgctt",
+    "agtgga"
+   ],
+   "10": [
+    "gctta",
+    "agtgga"
+   ],
+   "11": [
+    "ggtgt",
+    "agtgga"
+   ],
+   "12": [
+    "ccagct",
+    "agtgga"
+   ]
+  }
+ },
+ "PstI_varB": {
+  "E": {
+   "1": [
+    "CTATTA",
+    "TGCA"
+   ],
+   "2": [
+    "GCCAGT",
+    "TGCA"
+   ],
+   "3": [
+    "GGAAGA",
+    "TGCA"
+   ],
+   "4": [
+    "GTACTT",
+    "TGCA"
+   ],
+   "5": [
+    "GTTGAA",
+    "TGCA"
+   ],
+   "6": [
+    "TAACGA",
+    "TGCA"
+   ],
+   "7": [
+    "TGGCTA",
+    "TGCA"
+   ],
+   "8": [
+    "TATTTTT",
+    "TGCA"
+   ],
+   "9": [
+    "CTTGCTT",
+    "TGCA"
+   ],
+   "10": [
+    "ATGAAAG",
+    "TGCA"
+   ],
+   "11": [
+    "AAAAGTT",
+    "TGCA"
+   ],
+   "12": [
+    "GAATTCA",
+    "TGCA"
+   ]
+  },
+  "G": {
+   "1": [
+    "GCGGAAT",
+    "TGCA"
+   ],
+   "2": [
+    "TAGCGGA",
+    "TGCA"
+   ],
+   "3": [
+    "TCGAAGA",
+    "TGCA"
+   ],
+   "4": [
+    "TCTGTGA",
+    "TGCA"
+   ],
+   "5": [
+    "TGCTGGA",
+    "TGCA"
+   ],
+   "6": [
+    "ACGACTAG",
+    "TGCA"
+   ],
+   "7": [
+    "TAGCATGG",
+    "TGCA"
+   ],
+   "8": [
+    "TAGGCCAT",
+    "TGCA"
+   ],
+   "9": [
+    "TGCAAGGA",
+    "TGCA"
+   ],
+   "10": [
+    "TGGTACGT",
+    "TGCA"
+   ],
+   "11": [
+    "TCTCAGTG",
+    "TGCA"
+   ],
+   "12": [
+    "CCGGATAT",
+    "TGCA"
+   ]
+  },
+  "F": {
+   "1": [
+    "GAACTTG",
+    "TGCA"
+   ],
+   "2": [
+    "GGACCTA",
+    "TGCA"
+   ],
+   "3": [
+    "GTCGATT",
+    "TGCA"
+   ],
+   "4": [
+    "AACGCCT",
+    "TGCA"
+   ],
+   "5": [
+    "AATATGG",
+    "TGCA"
+   ],
+   "6": [
+    "ACGTGTT",
+    "TGCA"
+   ],
+   "7": [
+    "ATTAATT",
+    "TGCA"
+   ],
+   "8": [
+    "ATTGGAT",
+    "TGCA"
+   ],
+   "9": [
+    "CATAAGT",
+    "TGCA"
+   ],
+   "10": [
+    "CGCTGAT",
+    "TGCA"
+   ],
+   "11": [
+    "CGGTAGA",
+    "TGCA"
+   ],
+   "12": [
+    "CTACGGA",
+    "TGCA"
+   ]
+  },
+  "B": {
+   "1": [
+    "CGCTT",
+    "TGCA"
+   ],
+   "2": [
+    "TCACG",
+    "TGCA"
+   ],
+   "3": [
+    "CTAGG",
+    "TGCA"
+   ],
+   "4": [
+    "ACAAA",
+    "TGCA"
+   ],
+   "5": [
+    "TTCTG",
+    "TGCA"
+   ],
+   "6": [
+    "AGCCG",
+    "TGCA"
+   ],
+   "7": [
+    "GTATT",
+    "TGCA"
+   ],
+   "8": [
+    "CTGTA",
+    "TGCA"
+   ],
+   "9": [
+    "ACCGT",
+    "TGCA"
+   ],
+   "10": [
+    "GCTTA",
+    "TGCA"
+   ],
+   "11": [
+    "GGTGT",
+    "TGCA"
+   ],
+   "12": [
+    "AGGAT",
+    "TGCA"
+   ]
+  },
+  "C": {
+   "1": [
+    "ATTGA",
+    "TGCA"
+   ],
+   "2": [
+    "CATCT",
+    "TGCA"
+   ],
+   "3": [
+    "CCTAG",
+    "TGCA"
+   ],
+   "4": [
+    "GAGGA",
+    "TGCA"
+   ],
+   "5": [
+    "GGAAG",
+    "TGCA"
+   ],
+   "6": [
+    "GTCAA",
+    "TGCA"
+   ],
+   "7": [
+    "TAATA",
+    "TGCA"
+   ],
+   "8": [
+    "TACAT",
+    "TGCA"
+   ],
+   "9": [
+    "TCGTT",
+    "TGCA"
+   ],
+   "10": [
+    "GGTTGT",
+    "TGCA"
+   ],
+   "11": [
+    "CCAGCT",
+    "TGCA"
+   ],
+   "12": [
+    "TTCAGA",
+    "TGCA"
+   ]
+  },
+  "A": {
+   "1": [
+    "CTCG",
+    "TGCA"
+   ],
+   "2": [
+    "TGCA",
+    "TGCA"
+   ],
+   "3": [
+    "ACTA",
+    "TGCA"
+   ],
+   "4": [
+    "CAGA",
+    "TGCA"
+   ],
+   "5": [
+    "AACT",
+    "TGCA"
+   ],
+   "6": [
+    "GCGT",
+    "TGCA"
+   ],
+   "7": [
+    "CGAT",
+    "TGCA"
+   ],
+   "8": [
+    "GTAA",
+    "TGCA"
+   ],
+   "9": [
+    "AGGG",
+    "TGCA"
+   ],
+   "10": [
+    "GATG",
+    "TGCA"
+   ],
+   "11": [
+    "TCAG",
+    "TGCA"
+   ],
+   "12": [
+    "TGCG",
+    "TGCA"
+   ]
+  },
+  "D": {
+   "1": [
+    "TAGGAA",
+    "TGCA"
+   ],
+   "2": [
+    "GCTCTA",
+    "TGCA"
+   ],
+   "3": [
+    "CCACAA",
+    "TGCA"
+   ],
+   "4": [
+    "CTTCCA",
+    "TGCA"
+   ],
+   "5": [
+    "GAGATA",
+    "TGCA"
+   ],
+   "6": [
+    "ATGCCT",
+    "TGCA"
+   ],
+   "7": [
+    "AGTGGA",
+    "TGCA"
+   ],
+   "8": [
+    "ACCTAA",
+    "TGCA"
+   ],
+   "9": [
+    "ATATGT",
+    "TGCA"
+   ],
+   "10": [
+    "ATCGTA",
+    "TGCA"
+   ],
+   "11": [
+    "CATCGT",
+    "TGCA"
+   ],
+   "12": [
+    "CGCGGT",
+    "TGCA"
+   ]
+  },
+  "H": {
+   "1": [
+    "CGCCTTAT",
+    "TGCA"
+   ],
+   "2": [
+    "AACCGAGA",
+    "TGCA"
+   ],
+   "3": [
+    "ACAGGGAA",
+    "TGCA"
+   ],
+   "4": [
+    "ACGTGGTA",
+    "TGCA"
+   ],
+   "5": [
+    "CCATGGGT",
+    "TGCA"
+   ],
+   "6": [
+    "CGCGGAGA",
+    "TGCA"
+   ],
+   "7": [
+    "CGTGTGGT",
+    "TGCA"
+   ],
+   "8": [
+    "GCTGTGGA",
+    "TGCA"
+   ],
+   "9": [
+    "GGATTGGT",
+    "TGCA"
+   ],
+   "10": [
+    "GTGAGGGT",
+    "TGCA"
+   ],
+   "11": [
+    "TATCGGGA",
+    "TGCA"
+   ],
+   "12": [
+    "TTCCTGGA",
+    "TGCA"
+   ]
+  }
+ },
+ "CCGGplate4": {
+  "E": {
+   "1": [
+    "ttcaga",
+    "aacgcct"
+   ],
+   "2": [
+    "taggaa",
+    "aacgcct"
+   ],
+   "3": [
+    "gctcta",
+    "aacgcct"
+   ],
+   "4": [
+    "ccacaa",
+    "aacgcct"
+   ],
+   "5": [
+    "tgcga",
+    "aacgcct"
+   ],
+   "6": [
+    "cttcca",
+    "aacgcct"
+   ],
+   "7": [
+    "gagata",
+    "aacgcct"
+   ],
+   "8": [
+    "atgcct",
+    "aacgcct"
+   ],
+   "9": [
+    "tattttt",
+    "aacgcct"
+   ],
+   "10": [
+    "cttgctt",
+    "aacgcct"
+   ],
+   "11": [
+    "atgaaag",
+    "aacgcct"
+   ],
+   "12": [
+    "aaaagtt",
+    "aacgcct"
+   ]
+  },
+  "G": {
+   "1": [
+    "ttcaga",
+    "acgactag"
+   ],
+   "2": [
+    "taggaa",
+    "acgactag"
+   ],
+   "3": [
+    "gctcta",
+    "acgactag"
+   ],
+   "4": [
+    "ccacaa",
+    "acgactag"
+   ],
+   "5": [
+    "tgcga",
+    "acgactag"
+   ],
+   "6": [
+    "cttcca",
+    "acgactag"
+   ],
+   "7": [
+    "gagata",
+    "acgactag"
+   ],
+   "8": [
+    "atgcct",
+    "acgactag"
+   ],
+   "9": [
+    "tattttt",
+    "acgactag"
+   ],
+   "10": [
+    "cttgctt",
+    "acgactag"
+   ],
+   "11": [
+    "atgaaag",
+    "acgactag"
+   ],
+   "12": [
+    "aaaagtt",
+    "acgactag"
+   ]
+  },
+  "F": {
+   "1": [
+    "ttcaga",
+    "aatatgg"
+   ],
+   "2": [
+    "taggaa",
+    "aatatgg"
+   ],
+   "3": [
+    "gctcta",
+    "aatatgg"
+   ],
+   "4": [
+    "ccacaa",
+    "aatatgg"
+   ],
+   "5": [
+    "tgcga",
+    "aatatgg"
+   ],
+   "6": [
+    "cttcca",
+    "aatatgg"
+   ],
+   "7": [
+    "gagata",
+    "aatatgg"
+   ],
+   "8": [
+    "atgcct",
+    "aatatgg"
+   ],
+   "9": [
+    "tattttt",
+    "aatatgg"
+   ],
+   "10": [
+    "cttgctt",
+    "aatatgg"
+   ],
+   "11": [
+    "atgaaag",
+    "aatatgg"
+   ],
+   "12": [
+    "aaaagtt",
+    "aatatgg"
+   ]
+  },
+  "B": {
+   "1": [
+    "ttcaga",
+    "gaacttg"
+   ],
+   "2": [
+    "taggaa",
+    "gaacttg"
+   ],
+   "3": [
+    "gctcta",
+    "gaacttg"
+   ],
+   "4": [
+    "ccacaa",
+    "gaacttg"
+   ],
+   "5": [
+    "tgcga",
+    "gaacttg"
+   ],
+   "6": [
+    "cttcca",
+    "gaacttg"
+   ],
+   "7": [
+    "gagata",
+    "gaacttg"
+   ],
+   "8": [
+    "atgcct",
+    "gaacttg"
+   ],
+   "9": [
+    "tattttt",
+    "gaacttg"
+   ],
+   "10": [
+    "cttgctt",
+    "gaacttg"
+   ],
+   "11": [
+    "atgaaag",
+    "gaacttg"
+   ],
+   "12": [
+    "aaaagtt",
+    "gaacttg"
+   ]
+  },
+  "C": {
+   "1": [
+    "ttcaga",
+    "ggaccta"
+   ],
+   "2": [
+    "taggaa",
+    "ggaccta"
+   ],
+   "3": [
+    "gctcta",
+    "ggaccta"
+   ],
+   "4": [
+    "ccacaa",
+    "ggaccta"
+   ],
+   "5": [
+    "tgcga",
+    "ggaccta"
+   ],
+   "6": [
+    "cttcca",
+    "ggaccta"
+   ],
+   "7": [
+    "gagata",
+    "ggaccta"
+   ],
+   "8": [
+    "atgcct",
+    "ggaccta"
+   ],
+   "9": [
+    "tattttt",
+    "ggaccta"
+   ],
+   "10": [
+    "cttgctt",
+    "ggaccta"
+   ],
+   "11": [
+    "atgaaag",
+    "ggaccta"
+   ],
+   "12": [
+    "aaaagtt",
+    "ggaccta"
+   ]
+  },
+  "A": {
+   "1": [
+    "ttcaga",
+    "gaattca"
+   ],
+   "2": [
+    "taggaa",
+    "gaattca"
+   ],
+   "3": [
+    "gctcta",
+    "gaattca"
+   ],
+   "4": [
+    "ccacaa",
+    "gaattca"
+   ],
+   "5": [
+    "tgcga",
+    "gaattca"
+   ],
+   "6": [
+    "cttcca",
+    "gaattca"
+   ],
+   "7": [
+    "gagata",
+    "gaattca"
+   ],
+   "8": [
+    "atgcct",
+    "gaattca"
+   ],
+   "9": [
+    "tattttt",
+    "gaattca"
+   ],
+   "10": [
+    "cttgctt",
+    "gaattca"
+   ],
+   "11": [
+    "atgaaag",
+    "gaattca"
+   ],
+   "12": [
+    "aaaagtt",
+    "gaattca"
+   ]
+  },
+  "D": {
+   "1": [
+    "ttcaga",
+    "gtcgatt"
+   ],
+   "2": [
+    "taggaa",
+    "gtcgatt"
+   ],
+   "3": [
+    "gctcta",
+    "gtcgatt"
+   ],
+   "4": [
+    "ccacaa",
+    "gtcgatt"
+   ],
+   "5": [
+    "tgcga",
+    "gtcgatt"
+   ],
+   "6": [
+    "cttcca",
+    "gtcgatt"
+   ],
+   "7": [
+    "gagata",
+    "gtcgatt"
+   ],
+   "8": [
+    "atgcct",
+    "gtcgatt"
+   ],
+   "9": [
+    "tattttt",
+    "gtcgatt"
+   ],
+   "10": [
+    "cttgctt",
+    "gtcgatt"
+   ],
+   "11": [
+    "atgaaag",
+    "gtcgatt"
+   ],
+   "12": [
+    "aaaagtt",
+    "gtcgatt"
+   ]
+  },
+  "H": {
+   "1": [
+    "ttcaga",
+    "agtgga"
+   ],
+   "2": [
+    "taggaa",
+    "agtgga"
+   ],
+   "3": [
+    "gctcta",
+    "agtgga"
+   ],
+   "4": [
+    "ccacaa",
+    "agtgga"
+   ],
+   "5": [
+    "tgcga",
+    "agtgga"
+   ],
+   "6": [
+    "cttcca",
+    "agtgga"
+   ],
+   "7": [
+    "gagata",
+    "agtgga"
+   ],
+   "8": [
+    "atgcct",
+    "agtgga"
+   ],
+   "9": [
+    "tattttt",
+    "agtgga"
+   ],
+   "10": [
+    "cttgctt",
+    "agtgga"
+   ],
+   "11": [
+    "atgaaag",
+    "agtgga"
+   ],
+   "12": [
+    "aaaagtt",
+    "agtgga"
+   ]
+  }
+ },
+ "PstI_varE": {
+  "E": {
+   "1": [
+    "CTATTA",
+    "CGCTT"
+   ],
+   "2": [
+    "GCCAGT",
+    "CGCTT"
+   ],
+   "3": [
+    "GGAAGA",
+    "CGCTT"
+   ],
+   "4": [
+    "GTACTT",
+    "CGCTT"
+   ],
+   "5": [
+    "GTTGAA",
+    "CGCTT"
+   ],
+   "6": [
+    "TAACGA",
+    "CGCTT"
+   ],
+   "7": [
+    "TGGCTA",
+    "CGCTT"
+   ],
+   "8": [
+    "TATTTTT",
+    "CGCTT"
+   ],
+   "9": [
+    "CTTGCTT",
+    "CGCTT"
+   ],
+   "10": [
+    "ATGAAAG",
+    "CGCTT"
+   ],
+   "11": [
+    "AAAAGTT",
+    "CGCTT"
+   ],
+   "12": [
+    "GAATTCA",
+    "CGCTT"
+   ]
+  },
+  "G": {
+   "1": [
+    "GCGGAAT",
+    "CGCTT"
+   ],
+   "2": [
+    "TAGCGGA",
+    "CGCTT"
+   ],
+   "3": [
+    "TCGAAGA",
+    "CGCTT"
+   ],
+   "4": [
+    "TCTGTGA",
+    "CGCTT"
+   ],
+   "5": [
+    "TGCTGGA",
+    "CGCTT"
+   ],
+   "6": [
+    "ACGACTAG",
+    "CGCTT"
+   ],
+   "7": [
+    "TAGCATGG",
+    "CGCTT"
+   ],
+   "8": [
+    "TAGGCCAT",
+    "CGCTT"
+   ],
+   "9": [
+    "TGCAAGGA",
+    "CGCTT"
+   ],
+   "10": [
+    "TGGTACGT",
+    "CGCTT"
+   ],
+   "11": [
+    "TCTCAGTG",
+    "CGCTT"
+   ],
+   "12": [
+    "CCGGATAT",
+    "CGCTT"
+   ]
+  },
+  "F": {
+   "1": [
+    "GAACTTG",
+    "CGCTT"
+   ],
+   "2": [
+    "GGACCTA",
+    "CGCTT"
+   ],
+   "3": [
+    "GTCGATT",
+    "CGCTT"
+   ],
+   "4": [
+    "AACGCCT",
+    "CGCTT"
+   ],
+   "5": [
+    "AATATGG",
+    "CGCTT"
+   ],
+   "6": [
+    "ACGTGTT",
+    "CGCTT"
+   ],
+   "7": [
+    "ATTAATT",
+    "CGCTT"
+   ],
+   "8": [
+    "ATTGGAT",
+    "CGCTT"
+   ],
+   "9": [
+    "CATAAGT",
+    "CGCTT"
+   ],
+   "10": [
+    "CGCTGAT",
+    "CGCTT"
+   ],
+   "11": [
+    "CGGTAGA",
+    "CGCTT"
+   ],
+   "12": [
+    "CTACGGA",
+    "CGCTT"
+   ]
+  },
+  "B": {
+   "1": [
+    "CGCTT",
+    "CGCTT"
+   ],
+   "2": [
+    "TCACG",
+    "CGCTT"
+   ],
+   "3": [
+    "CTAGG",
+    "CGCTT"
+   ],
+   "4": [
+    "ACAAA",
+    "CGCTT"
+   ],
+   "5": [
+    "TTCTG",
+    "CGCTT"
+   ],
+   "6": [
+    "AGCCG",
+    "CGCTT"
+   ],
+   "7": [
+    "GTATT",
+    "CGCTT"
+   ],
+   "8": [
+    "CTGTA",
+    "CGCTT"
+   ],
+   "9": [
+    "ACCGT",
+    "CGCTT"
+   ],
+   "10": [
+    "GCTTA",
+    "CGCTT"
+   ],
+   "11": [
+    "GGTGT",
+    "CGCTT"
+   ],
+   "12": [
+    "AGGAT",
+    "CGCTT"
+   ]
+  },
+  "C": {
+   "1": [
+    "ATTGA",
+    "CGCTT"
+   ],
+   "2": [
+    "CATCT",
+    "CGCTT"
+   ],
+   "3": [
+    "CCTAG",
+    "CGCTT"
+   ],
+   "4": [
+    "GAGGA",
+    "CGCTT"
+   ],
+   "5": [
+    "GGAAG",
+    "CGCTT"
+   ],
+   "6": [
+    "GTCAA",
+    "CGCTT"
+   ],
+   "7": [
+    "TAATA",
+    "CGCTT"
+   ],
+   "8": [
+    "TACAT",
+    "CGCTT"
+   ],
+   "9": [
+    "TCGTT",
+    "CGCTT"
+   ],
+   "10": [
+    "GGTTGT",
+    "CGCTT"
+   ],
+   "11": [
+    "CCAGCT",
+    "CGCTT"
+   ],
+   "12": [
+    "TTCAGA",
+    "CGCTT"
+   ]
+  },
+  "A": {
+   "1": [
+    "CTCG",
+    "CGCTT"
+   ],
+   "2": [
+    "TGCA",
+    "CGCTT"
+   ],
+   "3": [
+    "ACTA",
+    "CGCTT"
+   ],
+   "4": [
+    "CAGA",
+    "CGCTT"
+   ],
+   "5": [
+    "AACT",
+    "CGCTT"
+   ],
+   "6": [
+    "GCGT",
+    "CGCTT"
+   ],
+   "7": [
+    "CGAT",
+    "CGCTT"
+   ],
+   "8": [
+    "GTAA",
+    "CGCTT"
+   ],
+   "9": [
+    "AGGG",
+    "CGCTT"
+   ],
+   "10": [
+    "GATG",
+    "CGCTT"
+   ],
+   "11": [
+    "TCAG",
+    "CGCTT"
+   ],
+   "12": [
+    "TGCG",
+    "CGCTT"
+   ]
+  },
+  "D": {
+   "1": [
+    "TAGGAA",
+    "CGCTT"
+   ],
+   "2": [
+    "GCTCTA",
+    "CGCTT"
+   ],
+   "3": [
+    "CCACAA",
+    "CGCTT"
+   ],
+   "4": [
+    "CTTCCA",
+    "CGCTT"
+   ],
+   "5": [
+    "GAGATA",
+    "CGCTT"
+   ],
+   "6": [
+    "ATGCCT",
+    "CGCTT"
+   ],
+   "7": [
+    "AGTGGA",
+    "CGCTT"
+   ],
+   "8": [
+    "ACCTAA",
+    "CGCTT"
+   ],
+   "9": [
+    "ATATGT",
+    "CGCTT"
+   ],
+   "10": [
+    "ATCGTA",
+    "CGCTT"
+   ],
+   "11": [
+    "CATCGT",
+    "CGCTT"
+   ],
+   "12": [
+    "CGCGGT",
+    "CGCTT"
+   ]
+  },
+  "H": {
+   "1": [
+    "CGCCTTAT",
+    "CGCTT"
+   ],
+   "2": [
+    "AACCGAGA",
+    "CGCTT"
+   ],
+   "3": [
+    "ACAGGGAA",
+    "CGCTT"
+   ],
+   "4": [
+    "ACGTGGTA",
+    "CGCTT"
+   ],
+   "5": [
+    "CCATGGGT",
+    "CGCTT"
+   ],
+   "6": [
+    "CGCGGAGA",
+    "CGCTT"
+   ],
+   "7": [
+    "CGTGTGGT",
+    "CGCTT"
+   ],
+   "8": [
+    "GCTGTGGA",
+    "CGCTT"
+   ],
+   "9": [
+    "GGATTGGT",
+    "CGCTT"
+   ],
+   "10": [
+    "GTGAGGGT",
+    "CGCTT"
+   ],
+   "11": [
+    "TATCGGGA",
+    "CGCTT"
+   ],
+   "12": [
+    "TTCCTGGA",
+    "CGCTT"
+   ]
+  }
+ },
+ "PstIAdapterPlate3": {
+  "E": {
+   "1": [
+    "CTATTA",
+    "ACGACTAG"
+   ],
+   "2": [
+    "GCCAGT",
+    "ACGACTAG"
+   ],
+   "3": [
+    "GGAAGA",
+    "ACGACTAG"
+   ],
+   "4": [
+    "GTACTT",
+    "ACGACTAG"
+   ],
+   "5": [
+    "GTTGAA",
+    "ACGACTAG"
+   ],
+   "6": [
+    "TAACGA",
+    "ACGACTAG"
+   ],
+   "7": [
+    "TGGCTA",
+    "ACGACTAG"
+   ],
+   "8": [
+    "TATTTTT",
+    "ACGACTAG"
+   ],
+   "9": [
+    "CTTGCTT",
+    "ACGACTAG"
+   ],
+   "10": [
+    "ATGAAAG",
+    "ACGACTAG"
+   ],
+   "11": [
+    "AAAAGTT",
+    "ACGACTAG"
+   ],
+   "12": [
+    "GAATTCA",
+    "ACGACTAG"
+   ]
+  },
+  "G": {
+   "1": [
+    "GCGGAAT",
+    "TGCGA"
+   ],
+   "2": [
+    "TAGCGGA",
+    "TGCGA"
+   ],
+   "3": [
+    "TCGAAGA",
+    "TGCGA"
+   ],
+   "4": [
+    "TCTGTGA",
+    "TGCGA"
+   ],
+   "5": [
+    "TGCTGGA",
+    "TGCGA"
+   ],
+   "6": [
+    "ACGACTAG",
+    "TGCGA"
+   ],
+   "7": [
+    "TAGCATGG",
+    "TGCGA"
+   ],
+   "8": [
+    "TAGGCCAT",
+    "TGCGA"
+   ],
+   "9": [
+    "TGCAAGGA",
+    "TGCGA"
+   ],
+   "10": [
+    "TGGTACGT",
+    "TGCGA"
+   ],
+   "11": [
+    "TCTCAGTG",
+    "TGCGA"
+   ],
+   "12": [
+    "CCGGATAT",
+    "TGCGA"
+   ]
+  },
+  "F": {
+   "1": [
+    "GAACTTG",
+    "ACTA"
+   ],
+   "2": [
+    "GGACCTA",
+    "ACTA"
+   ],
+   "3": [
+    "GTCGATT",
+    "ACTA"
+   ],
+   "4": [
+    "AACGCCT",
+    "ACTA"
+   ],
+   "5": [
+    "AATATGG",
+    "ACTA"
+   ],
+   "6": [
+    "ACGTGTT",
+    "ACTA"
+   ],
+   "7": [
+    "ATTAATT",
+    "ACTA"
+   ],
+   "8": [
+    "ATTGGAT",
+    "ACTA"
+   ],
+   "9": [
+    "CATAAGT",
+    "ACTA"
+   ],
+   "10": [
+    "CGCTGAT",
+    "ACTA"
+   ],
+   "11": [
+    "CGGTAGA",
+    "ACTA"
+   ],
+   "12": [
+    "CTACGGA",
+    "ACTA"
+   ]
+  },
+  "B": {
+   "1": [
+    "CGCTT",
+    "CCAGCT"
+   ],
+   "2": [
+    "TCACG",
+    "CCAGCT"
+   ],
+   "3": [
+    "CTAGG",
+    "CCAGCT"
+   ],
+   "4": [
+    "ACAAA",
+    "CCAGCT"
+   ],
+   "5": [
+    "TTCTG",
+    "CCAGCT"
+   ],
+   "6": [
+    "AGCCG",
+    "CCAGCT"
+   ],
+   "7": [
+    "GTATT",
+    "CCAGCT"
+   ],
+   "8": [
+    "CTGTA",
+    "CCAGCT"
+   ],
+   "9": [
+    "ACCGT",
+    "CCAGCT"
+   ],
+   "10": [
+    "GCTTA",
+    "CCAGCT"
+   ],
+   "11": [
+    "GGTGT",
+    "CCAGCT"
+   ],
+   "12": [
+    "AGGAT",
+    "CCAGCT"
+   ]
+  },
+  "C": {
+   "1": [
+    "ATTGA",
+    "ATGAAAG"
+   ],
+   "2": [
+    "CATCT",
+    "ATGAAAG"
+   ],
+   "3": [
+    "CCTAG",
+    "ATGAAAG"
+   ],
+   "4": [
+    "GAGGA",
+    "ATGAAAG"
+   ],
+   "5": [
+    "GGAAG",
+    "ATGAAAG"
+   ],
+   "6": [
+    "GTCAA",
+    "ATGAAAG"
+   ],
+   "7": [
+    "TAATA",
+    "ATGAAAG"
+   ],
+   "8": [
+    "TACAT",
+    "ATGAAAG"
+   ],
+   "9": [
+    "TCGTT",
+    "ATGAAAG"
+   ],
+   "10": [
+    "GGTTGT",
+    "ATGAAAG"
+   ],
+   "11": [
+    "CCAGCT",
+    "ATGAAAG"
+   ],
+   "12": [
+    "TTCAGA",
+    "ATGAAAG"
+   ]
+  },
+  "A": {
+   "1": [
+    "CTCG",
+    "GGTTGT"
+   ],
+   "2": [
+    "TGCA",
+    "GGTTGT"
+   ],
+   "3": [
+    "ACTA",
+    "GGTTGT"
+   ],
+   "4": [
+    "CAGA",
+    "GGTTGT"
+   ],
+   "5": [
+    "AACT",
+    "GGTTGT"
+   ],
+   "6": [
+    "GCGT",
+    "GGTTGT"
+   ],
+   "7": [
+    "CGAT",
+    "GGTTGT"
+   ],
+   "8": [
+    "GTAA",
+    "GGTTGT"
+   ],
+   "9": [
+    "AGGG",
+    "GGTTGT"
+   ],
+   "10": [
+    "GATG",
+    "GGTTGT"
+   ],
+   "11": [
+    "TCAG",
+    "GGTTGT"
+   ],
+   "12": [
+    "TGCG",
+    "GGTTGT"
+   ]
+  },
+  "D": {
+   "1": [
+    "TAGGAA",
+    "CTCG"
+   ],
+   "2": [
+    "GCTCTA",
+    "CTCG"
+   ],
+   "3": [
+    "CCACAA",
+    "CTCG"
+   ],
+   "4": [
+    "CTTCCA",
+    "CTCG"
+   ],
+   "5": [
+    "GAGATA",
+    "CTCG"
+   ],
+   "6": [
+    "ATGCCT",
+    "CTCG"
+   ],
+   "7": [
+    "AGTGGA",
+    "CTCG"
+   ],
+   "8": [
+    "ACCTAA",
+    "CTCG"
+   ],
+   "9": [
+    "ATATGT",
+    "CTCG"
+   ],
+   "10": [
+    "ATCGTA",
+    "CTCG"
+   ],
+   "11": [
+    "CATCGT",
+    "CTCG"
+   ],
+   "12": [
+    "CGCGGT",
+    "CTCG"
+   ]
+  },
+  "H": {
+   "1": [
+    "CGCCTTAT",
+    "CGCTT"
+   ],
+   "2": [
+    "AACCGAGA",
+    "CGCTT"
+   ],
+   "3": [
+    "ACAGGGAA",
+    "CGCTT"
+   ],
+   "4": [
+    "ACGTGGTA",
+    "CGCTT"
+   ],
+   "5": [
+    "CCATGGGT",
+    "CGCTT"
+   ],
+   "6": [
+    "CGCGGAGA",
+    "CGCTT"
+   ],
+   "7": [
+    "CGTGTGGT",
+    "CGCTT"
+   ],
+   "8": [
+    "GCTGTGGA",
+    "CGCTT"
+   ],
+   "9": [
+    "GGATTGGT",
+    "CGCTT"
+   ],
+   "10": [
+    "GTGAGGGT",
+    "CGCTT"
+   ],
+   "11": [
+    "TATCGGGA",
+    "CGCTT"
+   ],
+   "12": [
+    "TTCCTGGA",
+    "CGCTT"
+   ]
+  }
+ },
+ "CCGGplate2": {
+  "E": {
+   "1": [
+    "accgt",
+    "tggtacgt"
+   ],
+   "2": [
+    "tcacg",
+    "tggtacgt"
+   ],
+   "3": [
+    "ctagg",
+    "tggtacgt"
+   ],
+   "4": [
+    "acaaa",
+    "tggtacgt"
+   ],
+   "5": [
+    "ttctg",
+    "tggtacgt"
+   ],
+   "6": [
+    "agccg",
+    "tggtacgt"
+   ],
+   "7": [
+    "gtatt",
+    "tggtacgt"
+   ],
+   "8": [
+    "ctgta",
+    "tggtacgt"
+   ],
+   "9": [
+    "cgctt",
+    "tggtacgt"
+   ],
+   "10": [
+    "gctta",
+    "tggtacgt"
+   ],
+   "11": [
+    "ggtgt",
+    "tggtacgt"
+   ],
+   "12": [
+    "ccagct",
+    "tggtacgt"
+   ]
+  },
+  "G": {
+   "1": [
+    "accgt",
+    "ccggatat"
+   ],
+   "2": [
+    "tcacg",
+    "ccggatat"
+   ],
+   "3": [
+    "ctagg",
+    "ccggatat"
+   ],
+   "4": [
+    "acaaa",
+    "ccggatat"
+   ],
+   "5": [
+    "ttctg",
+    "ccggatat"
+   ],
+   "6": [
+    "agccg",
+    "ccggatat"
+   ],
+   "7": [
+    "gtatt",
+    "ccggatat"
+   ],
+   "8": [
+    "ctgta",
+    "ccggatat"
+   ],
+   "9": [
+    "cgctt",
+    "ccggatat"
+   ],
+   "10": [
+    "gctta",
+    "ccggatat"
+   ],
+   "11": [
+    "ggtgt",
+    "ccggatat"
+   ],
+   "12": [
+    "ccagct",
+    "ccggatat"
+   ]
+  },
+  "F": {
+   "1": [
+    "accgt",
+    "tctcagtg"
+   ],
+   "2": [
+    "tcacg",
+    "tctcagtg"
+   ],
+   "3": [
+    "ctagg",
+    "tctcagtg"
+   ],
+   "4": [
+    "acaaa",
+    "tctcagtg"
+   ],
+   "5": [
+    "ttctg",
+    "tctcagtg"
+   ],
+   "6": [
+    "agccg",
+    "tctcagtg"
+   ],
+   "7": [
+    "gtatt",
+    "tctcagtg"
+   ],
+   "8": [
+    "ctgta",
+    "tctcagtg"
+   ],
+   "9": [
+    "cgctt",
+    "tctcagtg"
+   ],
+   "10": [
+    "gctta",
+    "tctcagtg"
+   ],
+   "11": [
+    "ggtgt",
+    "tctcagtg"
+   ],
+   "12": [
+    "ccagct",
+    "tctcagtg"
+   ]
+  },
+  "B": {
+   "1": [
+    "accgt",
+    "ggttgt"
+   ],
+   "2": [
+    "tcacg",
+    "ggttgt"
+   ],
+   "3": [
+    "ctagg",
+    "ggttgt"
+   ],
+   "4": [
+    "acaaa",
+    "ggttgt"
+   ],
+   "5": [
+    "ttctg",
+    "ggttgt"
+   ],
+   "6": [
+    "agccg",
+    "ggttgt"
+   ],
+   "7": [
+    "gtatt",
+    "ggttgt"
+   ],
+   "8": [
+    "ctgta",
+    "ggttgt"
+   ],
+   "9": [
+    "cgctt",
+    "ggttgt"
+   ],
+   "10": [
+    "gctta",
+    "ggttgt"
+   ],
+   "11": [
+    "ggtgt",
+    "ggttgt"
+   ],
+   "12": [
+    "ccagct",
+    "ggttgt"
+   ]
+  },
+  "C": {
+   "1": [
+    "accgt",
+    "taggccat"
+   ],
+   "2": [
+    "tcacg",
+    "taggccat"
+   ],
+   "3": [
+    "ctagg",
+    "taggccat"
+   ],
+   "4": [
+    "acaaa",
+    "taggccat"
+   ],
+   "5": [
+    "ttctg",
+    "taggccat"
+   ],
+   "6": [
+    "agccg",
+    "taggccat"
+   ],
+   "7": [
+    "gtatt",
+    "taggccat"
+   ],
+   "8": [
+    "ctgta",
+    "taggccat"
+   ],
+   "9": [
+    "cgctt",
+    "taggccat"
+   ],
+   "10": [
+    "gctta",
+    "taggccat"
+   ],
+   "11": [
+    "ggtgt",
+    "taggccat"
+   ],
+   "12": [
+    "ccagct",
+    "taggccat"
+   ]
+  },
+  "A": {
+   "1": [
+    "accgt",
+    "tagcatgg"
+   ],
+   "2": [
+    "tcacg",
+    "tagcatgg"
+   ],
+   "3": [
+    "ctagg",
+    "tagcatgg"
+   ],
+   "4": [
+    "acaaa",
+    "tagcatgg"
+   ],
+   "5": [
+    "ttctg",
+    "tagcatgg"
+   ],
+   "6": [
+    "agccg",
+    "tagcatgg"
+   ],
+   "7": [
+    "gtatt",
+    "tagcatgg"
+   ],
+   "8": [
+    "ctgta",
+    "tagcatgg"
+   ],
+   "9": [
+    "cgctt",
+    "tagcatgg"
+   ],
+   "10": [
+    "gctta",
+    "tagcatgg"
+   ],
+   "11": [
+    "ggtgt",
+    "tagcatgg"
+   ],
+   "12": [
+    "ccagct",
+    "tagcatgg"
+   ]
+  },
+  "D": {
+   "1": [
+    "accgt",
+    "ttcctgga"
+   ],
+   "2": [
+    "tcacg",
+    "ttcctgga"
+   ],
+   "3": [
+    "ctagg",
+    "ttcctgga"
+   ],
+   "4": [
+    "acaaa",
+    "ttcctgga"
+   ],
+   "5": [
+    "ttctg",
+    "ttcctgga"
+   ],
+   "6": [
+    "agccg",
+    "ttcctgga"
+   ],
+   "7": [
+    "gtatt",
+    "ttcctgga"
+   ],
+   "8": [
+    "ctgta",
+    "ttcctgga"
+   ],
+   "9": [
+    "cgctt",
+    "ttcctgga"
+   ],
+   "10": [
+    "gctta",
+    "ttcctgga"
+   ],
+   "11": [
+    "ggtgt",
+    "ttcctgga"
+   ],
+   "12": [
+    "ccagct",
+    "ttcctgga"
+   ]
+  },
+  "H": {
+   "1": [
+    "accgt",
+    "cgccttat"
+   ],
+   "2": [
+    "tcacg",
+    "cgccttat"
+   ],
+   "3": [
+    "ctagg",
+    "cgccttat"
+   ],
+   "4": [
+    "acaaa",
+    "cgccttat"
+   ],
+   "5": [
+    "ttctg",
+    "cgccttat"
+   ],
+   "6": [
+    "agccg",
+    "cgccttat"
+   ],
+   "7": [
+    "gtatt",
+    "cgccttat"
+   ],
+   "8": [
+    "ctgta",
+    "cgccttat"
+   ],
+   "9": [
+    "cgctt",
+    "cgccttat"
+   ],
+   "10": [
+    "gctta",
+    "cgccttat"
+   ],
+   "11": [
+    "ggtgt",
+    "cgccttat"
+   ],
+   "12": [
+    "ccagct",
+    "cgccttat"
+   ]
+  }
+ },
+ "PstIAdapterPlate6": {
+  "E": {
+   "1": [
+    "CTATTA",
+    "CCAGCT"
+   ],
+   "2": [
+    "GCCAGT",
+    "CCAGCT"
+   ],
+   "3": [
+    "GGAAGA",
+    "CCAGCT"
+   ],
+   "4": [
+    "GTACTT",
+    "CCAGCT"
+   ],
+   "5": [
+    "GTTGAA",
+    "CCAGCT"
+   ],
+   "6": [
+    "TAACGA",
+    "CCAGCT"
+   ],
+   "7": [
+    "TGGCTA",
+    "CCAGCT"
+   ],
+   "8": [
+    "TATTTTT",
+    "CCAGCT"
+   ],
+   "9": [
+    "CTTGCTT",
+    "CCAGCT"
+   ],
+   "10": [
+    "ATGAAAG",
+    "CCAGCT"
+   ],
+   "11": [
+    "AAAAGTT",
+    "CCAGCT"
+   ],
+   "12": [
+    "GAATTCA",
+    "CCAGCT"
+   ]
+  },
+  "G": {
+   "1": [
+    "GCGGAAT",
+    "CTCG"
+   ],
+   "2": [
+    "TAGCGGA",
+    "CTCG"
+   ],
+   "3": [
+    "TCGAAGA",
+    "CTCG"
+   ],
+   "4": [
+    "TCTGTGA",
+    "CTCG"
+   ],
+   "5": [
+    "TGCTGGA",
+    "CTCG"
+   ],
+   "6": [
+    "ACGACTAG",
+    "CTCG"
+   ],
+   "7": [
+    "TAGCATGG",
+    "CTCG"
+   ],
+   "8": [
+    "TAGGCCAT",
+    "CTCG"
+   ],
+   "9": [
+    "TGCAAGGA",
+    "CTCG"
+   ],
+   "10": [
+    "TGGTACGT",
+    "CTCG"
+   ],
+   "11": [
+    "TCTCAGTG",
+    "CTCG"
+   ],
+   "12": [
+    "CCGGATAT",
+    "CTCG"
+   ]
+  },
+  "F": {
+   "1": [
+    "GAACTTG",
+    "ATGAAAG"
+   ],
+   "2": [
+    "GGACCTA",
+    "ATGAAAG"
+   ],
+   "3": [
+    "GTCGATT",
+    "ATGAAAG"
+   ],
+   "4": [
+    "AACGCCT",
+    "ATGAAAG"
+   ],
+   "5": [
+    "AATATGG",
+    "ATGAAAG"
+   ],
+   "6": [
+    "ACGTGTT",
+    "ATGAAAG"
+   ],
+   "7": [
+    "ATTAATT",
+    "ATGAAAG"
+   ],
+   "8": [
+    "ATTGGAT",
+    "ATGAAAG"
+   ],
+   "9": [
+    "CATAAGT",
+    "ATGAAAG"
+   ],
+   "10": [
+    "CGCTGAT",
+    "ATGAAAG"
+   ],
+   "11": [
+    "CGGTAGA",
+    "ATGAAAG"
+   ],
+   "12": [
+    "CTACGGA",
+    "ATGAAAG"
+   ]
+  },
+  "B": {
+   "1": [
+    "CGCTT",
+    "TGCGA"
+   ],
+   "2": [
+    "TCACG",
+    "TGCGA"
+   ],
+   "3": [
+    "CTAGG",
+    "TGCGA"
+   ],
+   "4": [
+    "ACAAA",
+    "TGCGA"
+   ],
+   "5": [
+    "TTCTG",
+    "TGCGA"
+   ],
+   "6": [
+    "AGCCG",
+    "TGCGA"
+   ],
+   "7": [
+    "GTATT",
+    "TGCGA"
+   ],
+   "8": [
+    "CTGTA",
+    "TGCGA"
+   ],
+   "9": [
+    "ACCGT",
+    "TGCGA"
+   ],
+   "10": [
+    "GCTTA",
+    "TGCGA"
+   ],
+   "11": [
+    "GGTGT",
+    "TGCGA"
+   ],
+   "12": [
+    "AGGAT",
+    "TGCGA"
+   ]
+  },
+  "C": {
+   "1": [
+    "ATTGA",
+    "CGCTT"
+   ],
+   "2": [
+    "CATCT",
+    "CGCTT"
+   ],
+   "3": [
+    "CCTAG",
+    "CGCTT"
+   ],
+   "4": [
+    "GAGGA",
+    "CGCTT"
+   ],
+   "5": [
+    "GGAAG",
+    "CGCTT"
+   ],
+   "6": [
+    "GTCAA",
+    "CGCTT"
+   ],
+   "7": [
+    "TAATA",
+    "CGCTT"
+   ],
+   "8": [
+    "TACAT",
+    "CGCTT"
+   ],
+   "9": [
+    "TCGTT",
+    "CGCTT"
+   ],
+   "10": [
+    "GGTTGT",
+    "CGCTT"
+   ],
+   "11": [
+    "CCAGCT",
+    "CGCTT"
+   ],
+   "12": [
+    "TTCAGA",
+    "CGCTT"
+   ]
+  },
+  "A": {
+   "1": [
+    "CTCG",
+    "ACTA"
+   ],
+   "2": [
+    "TGCA",
+    "ACTA"
+   ],
+   "3": [
+    "ACTA",
+    "ACTA"
+   ],
+   "4": [
+    "CAGA",
+    "ACTA"
+   ],
+   "5": [
+    "AACT",
+    "ACTA"
+   ],
+   "6": [
+    "GCGT",
+    "ACTA"
+   ],
+   "7": [
+    "CGAT",
+    "ACTA"
+   ],
+   "8": [
+    "GTAA",
+    "ACTA"
+   ],
+   "9": [
+    "AGGG",
+    "ACTA"
+   ],
+   "10": [
+    "GATG",
+    "ACTA"
+   ],
+   "11": [
+    "TCAG",
+    "ACTA"
+   ],
+   "12": [
+    "TGCG",
+    "ACTA"
+   ]
+  },
+  "D": {
+   "1": [
+    "TAGGAA",
+    "GGTTGT"
+   ],
+   "2": [
+    "GCTCTA",
+    "GGTTGT"
+   ],
+   "3": [
+    "CCACAA",
+    "GGTTGT"
+   ],
+   "4": [
+    "CTTCCA",
+    "GGTTGT"
+   ],
+   "5": [
+    "GAGATA",
+    "GGTTGT"
+   ],
+   "6": [
+    "ATGCCT",
+    "GGTTGT"
+   ],
+   "7": [
+    "AGTGGA",
+    "GGTTGT"
+   ],
+   "8": [
+    "ACCTAA",
+    "GGTTGT"
+   ],
+   "9": [
+    "ATATGT",
+    "GGTTGT"
+   ],
+   "10": [
+    "ATCGTA",
+    "GGTTGT"
+   ],
+   "11": [
+    "CATCGT",
+    "GGTTGT"
+   ],
+   "12": [
+    "CGCGGT",
+    "GGTTGT"
+   ]
+  },
+  "H": {
+   "1": [
+    "CGCCTTAT",
+    "ACGACTAG"
+   ],
+   "2": [
+    "AACCGAGA",
+    "ACGACTAG"
+   ],
+   "3": [
+    "ACAGGGAA",
+    "ACGACTAG"
+   ],
+   "4": [
+    "ACGTGGTA",
+    "ACGACTAG"
+   ],
+   "5": [
+    "CCATGGGT",
+    "ACGACTAG"
+   ],
+   "6": [
+    "CGCGGAGA",
+    "ACGACTAG"
+   ],
+   "7": [
+    "CGTGTGGT",
+    "ACGACTAG"
+   ],
+   "8": [
+    "GCTGTGGA",
+    "ACGACTAG"
+   ],
+   "9": [
+    "GGATTGGT",
+    "ACGACTAG"
+   ],
+   "10": [
+    "GTGAGGGT",
+    "ACGACTAG"
+   ],
+   "11": [
+    "TATCGGGA",
+    "ACGACTAG"
+   ],
+   "12": [
+    "TTCCTGGA",
+    "ACGACTAG"
+   ]
+  }
+ },
+ "PstIAdapterPlate7": {
+  "E": {
+   "1": [
+    "CTATTA",
+    "GGTTGT"
+   ],
+   "2": [
+    "GCCAGT",
+    "GGTTGT"
+   ],
+   "3": [
+    "GGAAGA",
+    "GGTTGT"
+   ],
+   "4": [
+    "GTACTT",
+    "GGTTGT"
+   ],
+   "5": [
+    "GTTGAA",
+    "GGTTGT"
+   ],
+   "6": [
+    "TAACGA",
+    "GGTTGT"
+   ],
+   "7": [
+    "TGGCTA",
+    "GGTTGT"
+   ],
+   "8": [
+    "TATTTTT",
+    "GGTTGT"
+   ],
+   "9": [
+    "CTTGCTT",
+    "GGTTGT"
+   ],
+   "10": [
+    "ATGAAAG",
+    "GGTTGT"
+   ],
+   "11": [
+    "AAAAGTT",
+    "GGTTGT"
+   ],
+   "12": [
+    "GAATTCA",
+    "GGTTGT"
+   ]
+  },
+  "G": {
+   "1": [
+    "GCGGAAT",
+    "ATGAAAG"
+   ],
+   "2": [
+    "TAGCGGA",
+    "ATGAAAG"
+   ],
+   "3": [
+    "TCGAAGA",
+    "ATGAAAG"
+   ],
+   "4": [
+    "TCTGTGA",
+    "ATGAAAG"
+   ],
+   "5": [
+    "TGCTGGA",
+    "ATGAAAG"
+   ],
+   "6": [
+    "ACGACTAG",
+    "ATGAAAG"
+   ],
+   "7": [
+    "TAGCATGG",
+    "ATGAAAG"
+   ],
+   "8": [
+    "TAGGCCAT",
+    "ATGAAAG"
+   ],
+   "9": [
+    "TGCAAGGA",
+    "ATGAAAG"
+   ],
+   "10": [
+    "TGGTACGT",
+    "ATGAAAG"
+   ],
+   "11": [
+    "TCTCAGTG",
+    "ATGAAAG"
+   ],
+   "12": [
+    "CCGGATAT",
+    "ATGAAAG"
+   ]
+  },
+  "F": {
+   "1": [
+    "GAACTTG",
+    "CCAGCT"
+   ],
+   "2": [
+    "GGACCTA",
+    "CCAGCT"
+   ],
+   "3": [
+    "GTCGATT",
+    "CCAGCT"
+   ],
+   "4": [
+    "AACGCCT",
+    "CCAGCT"
+   ],
+   "5": [
+    "AATATGG",
+    "CCAGCT"
+   ],
+   "6": [
+    "ACGTGTT",
+    "CCAGCT"
+   ],
+   "7": [
+    "ATTAATT",
+    "CCAGCT"
+   ],
+   "8": [
+    "ATTGGAT",
+    "CCAGCT"
+   ],
+   "9": [
+    "CATAAGT",
+    "CCAGCT"
+   ],
+   "10": [
+    "CGCTGAT",
+    "CCAGCT"
+   ],
+   "11": [
+    "CGGTAGA",
+    "CCAGCT"
+   ],
+   "12": [
+    "CTACGGA",
+    "CCAGCT"
+   ]
+  },
+  "B": {
+   "1": [
+    "CGCTT",
+    "ACTA"
+   ],
+   "2": [
+    "TCACG",
+    "ACTA"
+   ],
+   "3": [
+    "CTAGG",
+    "ACTA"
+   ],
+   "4": [
+    "ACAAA",
+    "ACTA"
+   ],
+   "5": [
+    "TTCTG",
+    "ACTA"
+   ],
+   "6": [
+    "AGCCG",
+    "ACTA"
+   ],
+   "7": [
+    "GTATT",
+    "ACTA"
+   ],
+   "8": [
+    "CTGTA",
+    "ACTA"
+   ],
+   "9": [
+    "ACCGT",
+    "ACTA"
+   ],
+   "10": [
+    "GCTTA",
+    "ACTA"
+   ],
+   "11": [
+    "GGTGT",
+    "ACTA"
+   ],
+   "12": [
+    "AGGAT",
+    "ACTA"
+   ]
+  },
+  "C": {
+   "1": [
+    "ATTGA",
+    "TGCGA"
+   ],
+   "2": [
+    "CATCT",
+    "TGCGA"
+   ],
+   "3": [
+    "CCTAG",
+    "TGCGA"
+   ],
+   "4": [
+    "GAGGA",
+    "TGCGA"
+   ],
+   "5": [
+    "GGAAG",
+    "TGCGA"
+   ],
+   "6": [
+    "GTCAA",
+    "TGCGA"
+   ],
+   "7": [
+    "TAATA",
+    "TGCGA"
+   ],
+   "8": [
+    "TACAT",
+    "TGCGA"
+   ],
+   "9": [
+    "TCGTT",
+    "TGCGA"
+   ],
+   "10": [
+    "GGTTGT",
+    "TGCGA"
+   ],
+   "11": [
+    "CCAGCT",
+    "TGCGA"
+   ],
+   "12": [
+    "TTCAGA",
+    "TGCGA"
+   ]
+  },
+  "A": {
+   "1": [
+    "CTCG",
+    "ACGACTAG"
+   ],
+   "2": [
+    "TGCA",
+    "ACGACTAG"
+   ],
+   "3": [
+    "ACTA",
+    "ACGACTAG"
+   ],
+   "4": [
+    "CAGA",
+    "ACGACTAG"
+   ],
+   "5": [
+    "AACT",
+    "ACGACTAG"
+   ],
+   "6": [
+    "GCGT",
+    "ACGACTAG"
+   ],
+   "7": [
+    "CGAT",
+    "ACGACTAG"
+   ],
+   "8": [
+    "GTAA",
+    "ACGACTAG"
+   ],
+   "9": [
+    "AGGG",
+    "ACGACTAG"
+   ],
+   "10": [
+    "GATG",
+    "ACGACTAG"
+   ],
+   "11": [
+    "TCAG",
+    "ACGACTAG"
+   ],
+   "12": [
+    "TGCG",
+    "ACGACTAG"
+   ]
+  },
+  "D": {
+   "1": [
+    "TAGGAA",
+    "CGCTT"
+   ],
+   "2": [
+    "GCTCTA",
+    "CGCTT"
+   ],
+   "3": [
+    "CCACAA",
+    "CGCTT"
+   ],
+   "4": [
+    "CTTCCA",
+    "CGCTT"
+   ],
+   "5": [
+    "GAGATA",
+    "CGCTT"
+   ],
+   "6": [
+    "ATGCCT",
+    "CGCTT"
+   ],
+   "7": [
+    "AGTGGA",
+    "CGCTT"
+   ],
+   "8": [
+    "ACCTAA",
+    "CGCTT"
+   ],
+   "9": [
+    "ATATGT",
+    "CGCTT"
+   ],
+   "10": [
+    "ATCGTA",
+    "CGCTT"
+   ],
+   "11": [
+    "CATCGT",
+    "CGCTT"
+   ],
+   "12": [
+    "CGCGGT",
+    "CGCTT"
+   ]
+  },
+  "H": {
+   "1": [
+    "CGCCTTAT",
+    "CTCG"
+   ],
+   "2": [
+    "AACCGAGA",
+    "CTCG"
+   ],
+   "3": [
+    "ACAGGGAA",
+    "CTCG"
+   ],
+   "4": [
+    "ACGTGGTA",
+    "CTCG"
+   ],
+   "5": [
+    "CCATGGGT",
+    "CTCG"
+   ],
+   "6": [
+    "CGCGGAGA",
+    "CTCG"
+   ],
+   "7": [
+    "CGTGTGGT",
+    "CTCG"
+   ],
+   "8": [
+    "GCTGTGGA",
+    "CTCG"
+   ],
+   "9": [
+    "GGATTGGT",
+    "CTCG"
+   ],
+   "10": [
+    "GTGAGGGT",
+    "CTCG"
+   ],
+   "11": [
+    "TATCGGGA",
+    "CTCG"
+   ],
+   "12": [
+    "TTCCTGGA",
+    "CTCG"
+   ]
+  }
+ },
+ "PstIAdapterPlate10": {
+  "E": {
+   "1": [
+    "CTATTA",
+    "TTCAGA"
+   ],
+   "2": [
+    "GCCAGT",
+    "TTCAGA"
+   ],
+   "3": [
+    "GGAAGA",
+    "TTCAGA"
+   ],
+   "4": [
+    "GTACTT",
+    "TTCAGA"
+   ],
+   "5": [
+    "GTTGAA",
+    "TTCAGA"
+   ],
+   "6": [
+    "TAACGA",
+    "TTCAGA"
+   ],
+   "7": [
+    "TGGCTA",
+    "TTCAGA"
+   ],
+   "8": [
+    "TATTTTT",
+    "TTCAGA"
+   ],
+   "9": [
+    "CTTGCTT",
+    "TTCAGA"
+   ],
+   "10": [
+    "ATGAAAG",
+    "TTCAGA"
+   ],
+   "11": [
+    "AAAAGTT",
+    "TTCAGA"
+   ],
+   "12": [
+    "GAATTCA",
+    "TTCAGA"
+   ]
+  },
+  "G": {
+   "1": [
+    "GCGGAAT",
+    "TCACG"
+   ],
+   "2": [
+    "TAGCGGA",
+    "TCACG"
+   ],
+   "3": [
+    "TCGAAGA",
+    "TCACG"
+   ],
+   "4": [
+    "TCTGTGA",
+    "TCACG"
+   ],
+   "5": [
+    "TGCTGGA",
+    "TCACG"
+   ],
+   "6": [
+    "ACGACTAG",
+    "TCACG"
+   ],
+   "7": [
+    "TAGCATGG",
+    "TCACG"
+   ],
+   "8": [
+    "TAGGCCAT",
+    "TCACG"
+   ],
+   "9": [
+    "TGCAAGGA",
+    "TCACG"
+   ],
+   "10": [
+    "TGGTACGT",
+    "TCACG"
+   ],
+   "11": [
+    "TCTCAGTG",
+    "TCACG"
+   ],
+   "12": [
+    "CCGGATAT",
+    "TCACG"
+   ]
+  },
+  "F": {
+   "1": [
+    "GAACTTG",
+    "TTCAGA"
+   ],
+   "2": [
+    "GGACCTA",
+    "TTCAGA"
+   ],
+   "3": [
+    "GTCGATT",
+    "TTCAGA"
+   ],
+   "4": [
+    "AACGCCT",
+    "TTCAGA"
+   ],
+   "5": [
+    "AATATGG",
+    "TTCAGA"
+   ],
+   "6": [
+    "ACGTGTT",
+    "TTCAGA"
+   ],
+   "7": [
+    "ATTAATT",
+    "TTCAGA"
+   ],
+   "8": [
+    "ATTGGAT",
+    "TTCAGA"
+   ],
+   "9": [
+    "CATAAGT",
+    "TTCAGA"
+   ],
+   "10": [
+    "CGCTGAT",
+    "TTCAGA"
+   ],
+   "11": [
+    "CGGTAGA",
+    "TTCAGA"
+   ],
+   "12": [
+    "CTACGGA",
+    "TTCAGA"
+   ]
+  },
+  "B": {
+   "1": [
+    "CGCTT",
+    "GCGT"
+   ],
+   "2": [
+    "TCACG",
+    "GCGT"
+   ],
+   "3": [
+    "CTAGG",
+    "GCGT"
+   ],
+   "4": [
+    "ACAAA",
+    "GCGT"
+   ],
+   "5": [
+    "TTCTG",
+    "GCGT"
+   ],
+   "6": [
+    "AGCCG",
+    "GCGT"
+   ],
+   "7": [
+    "GTATT",
+    "GCGT"
+   ],
+   "8": [
+    "CTGTA",
+    "GCGT"
+   ],
+   "9": [
+    "ACCGT",
+    "GCGT"
+   ],
+   "10": [
+    "GCTTA",
+    "GCGT"
+   ],
+   "11": [
+    "GGTGT",
+    "GCGT"
+   ],
+   "12": [
+    "AGGAT",
+    "GCGT"
+   ]
+  },
+  "C": {
+   "1": [
+    "ATTGA",
+    "CTTGCTT"
+   ],
+   "2": [
+    "CATCT",
+    "CTTGCTT"
+   ],
+   "3": [
+    "CCTAG",
+    "CTTGCTT"
+   ],
+   "4": [
+    "GAGGA",
+    "CTTGCTT"
+   ],
+   "5": [
+    "GGAAG",
+    "CTTGCTT"
+   ],
+   "6": [
+    "GTCAA",
+    "CTTGCTT"
+   ],
+   "7": [
+    "TAATA",
+    "CTTGCTT"
+   ],
+   "8": [
+    "TACAT",
+    "CTTGCTT"
+   ],
+   "9": [
+    "TCGTT",
+    "CTTGCTT"
+   ],
+   "10": [
+    "GGTTGT",
+    "CTTGCTT"
+   ],
+   "11": [
+    "CCAGCT",
+    "CTTGCTT"
+   ],
+   "12": [
+    "TTCAGA",
+    "CTTGCTT"
+   ]
+  },
+  "A": {
+   "1": [
+    "CTCG",
+    "GCGT"
+   ],
+   "2": [
+    "TGCA",
+    "GCGT"
+   ],
+   "3": [
+    "ACTA",
+    "GCGT"
+   ],
+   "4": [
+    "CAGA",
+    "GCGT"
+   ],
+   "5": [
+    "AACT",
+    "GCGT"
+   ],
+   "6": [
+    "GCGT",
+    "GCGT"
+   ],
+   "7": [
+    "CGAT",
+    "GCGT"
+   ],
+   "8": [
+    "GTAA",
+    "GCGT"
+   ],
+   "9": [
+    "AGGG",
+    "GCGT"
+   ],
+   "10": [
+    "GATG",
+    "GCGT"
+   ],
+   "11": [
+    "TCAG",
+    "GCGT"
+   ],
+   "12": [
+    "TGCG",
+    "GCGT"
+   ]
+  },
+  "D": {
+   "1": [
+    "TAGGAA",
+    "CTTGCTT"
+   ],
+   "2": [
+    "GCTCTA",
+    "CTTGCTT"
+   ],
+   "3": [
+    "CCACAA",
+    "CTTGCTT"
+   ],
+   "4": [
+    "CTTCCA",
+    "CTTGCTT"
+   ],
+   "5": [
+    "GAGATA",
+    "CTTGCTT"
+   ],
+   "6": [
+    "ATGCCT",
+    "CTTGCTT"
+   ],
+   "7": [
+    "AGTGGA",
+    "CTTGCTT"
+   ],
+   "8": [
+    "ACCTAA",
+    "CTTGCTT"
+   ],
+   "9": [
+    "ATATGT",
+    "CTTGCTT"
+   ],
+   "10": [
+    "ATCGTA",
+    "CTTGCTT"
+   ],
+   "11": [
+    "CATCGT",
+    "CTTGCTT"
+   ],
+   "12": [
+    "CGCGGT",
+    "CTTGCTT"
+   ]
+  },
+  "H": {
+   "1": [
+    "CGCCTTAT",
+    "TCACG"
+   ],
+   "2": [
+    "AACCGAGA",
+    "TCACG"
+   ],
+   "3": [
+    "ACAGGGAA",
+    "TCACG"
+   ],
+   "4": [
+    "ACGTGGTA",
+    "TCACG"
+   ],
+   "5": [
+    "CCATGGGT",
+    "TCACG"
+   ],
+   "6": [
+    "CGCGGAGA",
+    "TCACG"
+   ],
+   "7": [
+    "CGTGTGGT",
+    "TCACG"
+   ],
+   "8": [
+    "GCTGTGGA",
+    "TCACG"
+   ],
+   "9": [
+    "GGATTGGT",
+    "TCACG"
+   ],
+   "10": [
+    "GTGAGGGT",
+    "TCACG"
+   ],
+   "11": [
+    "TATCGGGA",
+    "TCACG"
+   ],
+   "12": [
+    "TTCCTGGA",
+    "TCACG"
+   ]
+  }
+ },
+ "PstIAdapterPlate5": {
+  "E": {
+   "1": [
+    "CTATTA",
+    "ATGAAAG"
+   ],
+   "2": [
+    "GCCAGT",
+    "ATGAAAG"
+   ],
+   "3": [
+    "GGAAGA",
+    "ATGAAAG"
+   ],
+   "4": [
+    "GTACTT",
+    "ATGAAAG"
+   ],
+   "5": [
+    "GTTGAA",
+    "ATGAAAG"
+   ],
+   "6": [
+    "TAACGA",
+    "ATGAAAG"
+   ],
+   "7": [
+    "TGGCTA",
+    "ATGAAAG"
+   ],
+   "8": [
+    "TATTTTT",
+    "ATGAAAG"
+   ],
+   "9": [
+    "CTTGCTT",
+    "ATGAAAG"
+   ],
+   "10": [
+    "ATGAAAG",
+    "ATGAAAG"
+   ],
+   "11": [
+    "AAAAGTT",
+    "ATGAAAG"
+   ],
+   "12": [
+    "GAATTCA",
+    "ATGAAAG"
+   ]
+  },
+  "G": {
+   "1": [
+    "GCGGAAT",
+    "ACGACTAG"
+   ],
+   "2": [
+    "TAGCGGA",
+    "ACGACTAG"
+   ],
+   "3": [
+    "TCGAAGA",
+    "ACGACTAG"
+   ],
+   "4": [
+    "TCTGTGA",
+    "ACGACTAG"
+   ],
+   "5": [
+    "TGCTGGA",
+    "ACGACTAG"
+   ],
+   "6": [
+    "ACGACTAG",
+    "ACGACTAG"
+   ],
+   "7": [
+    "TAGCATGG",
+    "ACGACTAG"
+   ],
+   "8": [
+    "TAGGCCAT",
+    "ACGACTAG"
+   ],
+   "9": [
+    "TGCAAGGA",
+    "ACGACTAG"
+   ],
+   "10": [
+    "TGGTACGT",
+    "ACGACTAG"
+   ],
+   "11": [
+    "TCTCAGTG",
+    "ACGACTAG"
+   ],
+   "12": [
+    "CCGGATAT",
+    "ACGACTAG"
+   ]
+  },
+  "F": {
+   "1": [
+    "GAACTTG",
+    "CTCG"
+   ],
+   "2": [
+    "GGACCTA",
+    "CTCG"
+   ],
+   "3": [
+    "GTCGATT",
+    "CTCG"
+   ],
+   "4": [
+    "AACGCCT",
+    "CTCG"
+   ],
+   "5": [
+    "AATATGG",
+    "CTCG"
+   ],
+   "6": [
+    "ACGTGTT",
+    "CTCG"
+   ],
+   "7": [
+    "ATTAATT",
+    "CTCG"
+   ],
+   "8": [
+    "ATTGGAT",
+    "CTCG"
+   ],
+   "9": [
+    "CATAAGT",
+    "CTCG"
+   ],
+   "10": [
+    "CGCTGAT",
+    "CTCG"
+   ],
+   "11": [
+    "CGGTAGA",
+    "CTCG"
+   ],
+   "12": [
+    "CTACGGA",
+    "CTCG"
+   ]
+  },
+  "B": {
+   "1": [
+    "CGCTT",
+    "CGCTT"
+   ],
+   "2": [
+    "TCACG",
+    "CGCTT"
+   ],
+   "3": [
+    "CTAGG",
+    "CGCTT"
+   ],
+   "4": [
+    "ACAAA",
+    "CGCTT"
+   ],
+   "5": [
+    "TTCTG",
+    "CGCTT"
+   ],
+   "6": [
+    "AGCCG",
+    "CGCTT"
+   ],
+   "7": [
+    "GTATT",
+    "CGCTT"
+   ],
+   "8": [
+    "CTGTA",
+    "CGCTT"
+   ],
+   "9": [
+    "ACCGT",
+    "CGCTT"
+   ],
+   "10": [
+    "GCTTA",
+    "CGCTT"
+   ],
+   "11": [
+    "GGTGT",
+    "CGCTT"
+   ],
+   "12": [
+    "AGGAT",
+    "CGCTT"
+   ]
+  },
+  "C": {
+   "1": [
+    "ATTGA",
+    "GGTTGT"
+   ],
+   "2": [
+    "CATCT",
+    "GGTTGT"
+   ],
+   "3": [
+    "CCTAG",
+    "GGTTGT"
+   ],
+   "4": [
+    "GAGGA",
+    "GGTTGT"
+   ],
+   "5": [
+    "GGAAG",
+    "GGTTGT"
+   ],
+   "6": [
+    "GTCAA",
+    "GGTTGT"
+   ],
+   "7": [
+    "TAATA",
+    "GGTTGT"
+   ],
+   "8": [
+    "TACAT",
+    "GGTTGT"
+   ],
+   "9": [
+    "TCGTT",
+    "GGTTGT"
+   ],
+   "10": [
+    "GGTTGT",
+    "GGTTGT"
+   ],
+   "11": [
+    "CCAGCT",
+    "GGTTGT"
+   ],
+   "12": [
+    "TTCAGA",
+    "GGTTGT"
+   ]
+  },
+  "A": {
+   "1": [
+    "CTCG",
+    "TGCGA"
+   ],
+   "2": [
+    "TGCA",
+    "TGCGA"
+   ],
+   "3": [
+    "ACTA",
+    "TGCGA"
+   ],
+   "4": [
+    "CAGA",
+    "TGCGA"
+   ],
+   "5": [
+    "AACT",
+    "TGCGA"
+   ],
+   "6": [
+    "GCGT",
+    "TGCGA"
+   ],
+   "7": [
+    "CGAT",
+    "TGCGA"
+   ],
+   "8": [
+    "GTAA",
+    "TGCGA"
+   ],
+   "9": [
+    "AGGG",
+    "TGCGA"
+   ],
+   "10": [
+    "GATG",
+    "TGCGA"
+   ],
+   "11": [
+    "TCAG",
+    "TGCGA"
+   ],
+   "12": [
+    "TGCG",
+    "TGCGA"
+   ]
+  },
+  "D": {
+   "1": [
+    "TAGGAA",
+    "CCAGCT"
+   ],
+   "2": [
+    "GCTCTA",
+    "CCAGCT"
+   ],
+   "3": [
+    "CCACAA",
+    "CCAGCT"
+   ],
+   "4": [
+    "CTTCCA",
+    "CCAGCT"
+   ],
+   "5": [
+    "GAGATA",
+    "CCAGCT"
+   ],
+   "6": [
+    "ATGCCT",
+    "CCAGCT"
+   ],
+   "7": [
+    "AGTGGA",
+    "CCAGCT"
+   ],
+   "8": [
+    "ACCTAA",
+    "CCAGCT"
+   ],
+   "9": [
+    "ATATGT",
+    "CCAGCT"
+   ],
+   "10": [
+    "ATCGTA",
+    "CCAGCT"
+   ],
+   "11": [
+    "CATCGT",
+    "CCAGCT"
+   ],
+   "12": [
+    "CGCGGT",
+    "CCAGCT"
+   ]
+  },
+  "H": {
+   "1": [
+    "CGCCTTAT",
+    "ACTA"
+   ],
+   "2": [
+    "AACCGAGA",
+    "ACTA"
+   ],
+   "3": [
+    "ACAGGGAA",
+    "ACTA"
+   ],
+   "4": [
+    "ACGTGGTA",
+    "ACTA"
+   ],
+   "5": [
+    "CCATGGGT",
+    "ACTA"
+   ],
+   "6": [
+    "CGCGGAGA",
+    "ACTA"
+   ],
+   "7": [
+    "CGTGTGGT",
+    "ACTA"
+   ],
+   "8": [
+    "GCTGTGGA",
+    "ACTA"
+   ],
+   "9": [
+    "GGATTGGT",
+    "ACTA"
+   ],
+   "10": [
+    "GTGAGGGT",
+    "ACTA"
+   ],
+   "11": [
+    "TATCGGGA",
+    "ACTA"
+   ],
+   "12": [
+    "TTCCTGGA",
+    "ACTA"
+   ]
+  }
+ },
+ "CCGGplate5": {
+  "E": {
+   "1": [
+    "ttcaga",
+    "tggtacgt"
+   ],
+   "2": [
+    "taggaa",
+    "tggtacgt"
+   ],
+   "3": [
+    "gctcta",
+    "tggtacgt"
+   ],
+   "4": [
+    "ccacaa",
+    "tggtacgt"
+   ],
+   "5": [
+    "tgcga",
+    "tggtacgt"
+   ],
+   "6": [
+    "cttcca",
+    "tggtacgt"
+   ],
+   "7": [
+    "gagata",
+    "tggtacgt"
+   ],
+   "8": [
+    "atgcct",
+    "tggtacgt"
+   ],
+   "9": [
+    "tattttt",
+    "tggtacgt"
+   ],
+   "10": [
+    "cttgctt",
+    "tggtacgt"
+   ],
+   "11": [
+    "atgaaag",
+    "tggtacgt"
+   ],
+   "12": [
+    "aaaagtt",
+    "tggtacgt"
+   ]
+  },
+  "G": {
+   "1": [
+    "ttcaga",
+    "ccggatat"
+   ],
+   "2": [
+    "taggaa",
+    "ccggatat"
+   ],
+   "3": [
+    "gctcta",
+    "ccggatat"
+   ],
+   "4": [
+    "ccacaa",
+    "ccggatat"
+   ],
+   "5": [
+    "tgcga",
+    "ccggatat"
+   ],
+   "6": [
+    "cttcca",
+    "ccggatat"
+   ],
+   "7": [
+    "gagata",
+    "ccggatat"
+   ],
+   "8": [
+    "atgcct",
+    "ccggatat"
+   ],
+   "9": [
+    "tattttt",
+    "ccggatat"
+   ],
+   "10": [
+    "cttgctt",
+    "ccggatat"
+   ],
+   "11": [
+    "atgaaag",
+    "ccggatat"
+   ],
+   "12": [
+    "aaaagtt",
+    "ccggatat"
+   ]
+  },
+  "F": {
+   "1": [
+    "ttcaga",
+    "tctcagtg"
+   ],
+   "2": [
+    "taggaa",
+    "tctcagtg"
+   ],
+   "3": [
+    "gctcta",
+    "tctcagtg"
+   ],
+   "4": [
+    "ccacaa",
+    "tctcagtg"
+   ],
+   "5": [
+    "tgcga",
+    "tctcagtg"
+   ],
+   "6": [
+    "cttcca",
+    "tctcagtg"
+   ],
+   "7": [
+    "gagata",
+    "tctcagtg"
+   ],
+   "8": [
+    "atgcct",
+    "tctcagtg"
+   ],
+   "9": [
+    "tattttt",
+    "tctcagtg"
+   ],
+   "10": [
+    "cttgctt",
+    "tctcagtg"
+   ],
+   "11": [
+    "atgaaag",
+    "tctcagtg"
+   ],
+   "12": [
+    "aaaagtt",
+    "tctcagtg"
+   ]
+  },
+  "B": {
+   "1": [
+    "ttcaga",
+    "ggttgt"
+   ],
+   "2": [
+    "taggaa",
+    "ggttgt"
+   ],
+   "3": [
+    "gctcta",
+    "ggttgt"
+   ],
+   "4": [
+    "ccacaa",
+    "ggttgt"
+   ],
+   "5": [
+    "tgcga",
+    "ggttgt"
+   ],
+   "6": [
+    "cttcca",
+    "ggttgt"
+   ],
+   "7": [
+    "gagata",
+    "ggttgt"
+   ],
+   "8": [
+    "atgcct",
+    "ggttgt"
+   ],
+   "9": [
+    "tattttt",
+    "ggttgt"
+   ],
+   "10": [
+    "cttgctt",
+    "ggttgt"
+   ],
+   "11": [
+    "atgaaag",
+    "ggttgt"
+   ],
+   "12": [
+    "aaaagtt",
+    "ggttgt"
+   ]
+  },
+  "C": {
+   "1": [
+    "ttcaga",
+    "taggccat"
+   ],
+   "2": [
+    "taggaa",
+    "taggccat"
+   ],
+   "3": [
+    "gctcta",
+    "taggccat"
+   ],
+   "4": [
+    "ccacaa",
+    "taggccat"
+   ],
+   "5": [
+    "tgcga",
+    "taggccat"
+   ],
+   "6": [
+    "cttcca",
+    "taggccat"
+   ],
+   "7": [
+    "gagata",
+    "taggccat"
+   ],
+   "8": [
+    "atgcct",
+    "taggccat"
+   ],
+   "9": [
+    "tattttt",
+    "taggccat"
+   ],
+   "10": [
+    "cttgctt",
+    "taggccat"
+   ],
+   "11": [
+    "atgaaag",
+    "taggccat"
+   ],
+   "12": [
+    "aaaagtt",
+    "taggccat"
+   ]
+  },
+  "A": {
+   "1": [
+    "ttcaga",
+    "tagcatgg"
+   ],
+   "2": [
+    "taggaa",
+    "tagcatgg"
+   ],
+   "3": [
+    "gctcta",
+    "tagcatgg"
+   ],
+   "4": [
+    "ccacaa",
+    "tagcatgg"
+   ],
+   "5": [
+    "tgcga",
+    "tagcatgg"
+   ],
+   "6": [
+    "cttcca",
+    "tagcatgg"
+   ],
+   "7": [
+    "gagata",
+    "tagcatgg"
+   ],
+   "8": [
+    "atgcct",
+    "tagcatgg"
+   ],
+   "9": [
+    "tattttt",
+    "tagcatgg"
+   ],
+   "10": [
+    "cttgctt",
+    "tagcatgg"
+   ],
+   "11": [
+    "atgaaag",
+    "tagcatgg"
+   ],
+   "12": [
+    "aaaagtt",
+    "tagcatgg"
+   ]
+  },
+  "D": {
+   "1": [
+    "ttcaga",
+    "ttcctgga"
+   ],
+   "2": [
+    "taggaa",
+    "ttcctgga"
+   ],
+   "3": [
+    "gctcta",
+    "ttcctgga"
+   ],
+   "4": [
+    "ccacaa",
+    "ttcctgga"
+   ],
+   "5": [
+    "tgcga",
+    "ttcctgga"
+   ],
+   "6": [
+    "cttcca",
+    "ttcctgga"
+   ],
+   "7": [
+    "gagata",
+    "ttcctgga"
+   ],
+   "8": [
+    "atgcct",
+    "ttcctgga"
+   ],
+   "9": [
+    "tattttt",
+    "ttcctgga"
+   ],
+   "10": [
+    "cttgctt",
+    "ttcctgga"
+   ],
+   "11": [
+    "atgaaag",
+    "ttcctgga"
+   ],
+   "12": [
+    "aaaagtt",
+    "ttcctgga"
+   ]
+  },
+  "H": {
+   "1": [
+    "ttcaga",
+    "cgccttat"
+   ],
+   "2": [
+    "taggaa",
+    "cgccttat"
+   ],
+   "3": [
+    "gctcta",
+    "cgccttat"
+   ],
+   "4": [
+    "ccacaa",
+    "cgccttat"
+   ],
+   "5": [
+    "tgcga",
+    "cgccttat"
+   ],
+   "6": [
+    "cttcca",
+    "cgccttat"
+   ],
+   "7": [
+    "gagata",
+    "cgccttat"
+   ],
+   "8": [
+    "atgcct",
+    "cgccttat"
+   ],
+   "9": [
+    "tattttt",
+    "cgccttat"
+   ],
+   "10": [
+    "cttgctt",
+    "cgccttat"
+   ],
+   "11": [
+    "atgaaag",
+    "cgccttat"
+   ],
+   "12": [
+    "aaaagtt",
+    "cgccttat"
+   ]
+  }
+ },
+ "PstIAdapterPlate9": {
+  "E": {
+   "1": [
+    "CTATTA",
+    "TCACG"
+   ],
+   "2": [
+    "GCCAGT",
+    "TCACG"
+   ],
+   "3": [
+    "GGAAGA",
+    "TCACG"
+   ],
+   "4": [
+    "GTACTT",
+    "TCACG"
+   ],
+   "5": [
+    "GTTGAA",
+    "TCACG"
+   ],
+   "6": [
+    "TAACGA",
+    "TCACG"
+   ],
+   "7": [
+    "TGGCTA",
+    "TCACG"
+   ],
+   "8": [
+    "TATTTTT",
+    "TCACG"
+   ],
+   "9": [
+    "CTTGCTT",
+    "TCACG"
+   ],
+   "10": [
+    "ATGAAAG",
+    "TCACG"
+   ],
+   "11": [
+    "AAAAGTT",
+    "TCACG"
+   ],
+   "12": [
+    "GAATTCA",
+    "TCACG"
+   ]
+  },
+  "G": {
+   "1": [
+    "GCGGAAT",
+    "GCGT"
+   ],
+   "2": [
+    "TAGCGGA",
+    "GCGT"
+   ],
+   "3": [
+    "TCGAAGA",
+    "GCGT"
+   ],
+   "4": [
+    "TCTGTGA",
+    "GCGT"
+   ],
+   "5": [
+    "TGCTGGA",
+    "GCGT"
+   ],
+   "6": [
+    "ACGACTAG",
+    "GCGT"
+   ],
+   "7": [
+    "TAGCATGG",
+    "GCGT"
+   ],
+   "8": [
+    "TAGGCCAT",
+    "GCGT"
+   ],
+   "9": [
+    "TGCAAGGA",
+    "GCGT"
+   ],
+   "10": [
+    "TGGTACGT",
+    "GCGT"
+   ],
+   "11": [
+    "TCTCAGTG",
+    "GCGT"
+   ],
+   "12": [
+    "CCGGATAT",
+    "GCGT"
+   ]
+  },
+  "F": {
+   "1": [
+    "GAACTTG",
+    "TCACG"
+   ],
+   "2": [
+    "GGACCTA",
+    "TCACG"
+   ],
+   "3": [
+    "GTCGATT",
+    "TCACG"
+   ],
+   "4": [
+    "AACGCCT",
+    "TCACG"
+   ],
+   "5": [
+    "AATATGG",
+    "TCACG"
+   ],
+   "6": [
+    "ACGTGTT",
+    "TCACG"
+   ],
+   "7": [
+    "ATTAATT",
+    "TCACG"
+   ],
+   "8": [
+    "ATTGGAT",
+    "TCACG"
+   ],
+   "9": [
+    "CATAAGT",
+    "TCACG"
+   ],
+   "10": [
+    "CGCTGAT",
+    "TCACG"
+   ],
+   "11": [
+    "CGGTAGA",
+    "TCACG"
+   ],
+   "12": [
+    "CTACGGA",
+    "TCACG"
+   ]
+  },
+  "B": {
+   "1": [
+    "CGCTT",
+    "CTTGCTT"
+   ],
+   "2": [
+    "TCACG",
+    "CTTGCTT"
+   ],
+   "3": [
+    "CTAGG",
+    "CTTGCTT"
+   ],
+   "4": [
+    "ACAAA",
+    "CTTGCTT"
+   ],
+   "5": [
+    "TTCTG",
+    "CTTGCTT"
+   ],
+   "6": [
+    "AGCCG",
+    "CTTGCTT"
+   ],
+   "7": [
+    "GTATT",
+    "CTTGCTT"
+   ],
+   "8": [
+    "CTGTA",
+    "CTTGCTT"
+   ],
+   "9": [
+    "ACCGT",
+    "CTTGCTT"
+   ],
+   "10": [
+    "GCTTA",
+    "CTTGCTT"
+   ],
+   "11": [
+    "GGTGT",
+    "CTTGCTT"
+   ],
+   "12": [
+    "AGGAT",
+    "CTTGCTT"
+   ]
+  },
+  "C": {
+   "1": [
+    "ATTGA",
+    "TTCAGA"
+   ],
+   "2": [
+    "CATCT",
+    "TTCAGA"
+   ],
+   "3": [
+    "CCTAG",
+    "TTCAGA"
+   ],
+   "4": [
+    "GAGGA",
+    "TTCAGA"
+   ],
+   "5": [
+    "GGAAG",
+    "TTCAGA"
+   ],
+   "6": [
+    "GTCAA",
+    "TTCAGA"
+   ],
+   "7": [
+    "TAATA",
+    "TTCAGA"
+   ],
+   "8": [
+    "TACAT",
+    "TTCAGA"
+   ],
+   "9": [
+    "TCGTT",
+    "TTCAGA"
+   ],
+   "10": [
+    "GGTTGT",
+    "TTCAGA"
+   ],
+   "11": [
+    "CCAGCT",
+    "TTCAGA"
+   ],
+   "12": [
+    "TTCAGA",
+    "TTCAGA"
+   ]
+  },
+  "A": {
+   "1": [
+    "CTCG",
+    "CTTGCTT"
+   ],
+   "2": [
+    "TGCA",
+    "CTTGCTT"
+   ],
+   "3": [
+    "ACTA",
+    "CTTGCTT"
+   ],
+   "4": [
+    "CAGA",
+    "CTTGCTT"
+   ],
+   "5": [
+    "AACT",
+    "CTTGCTT"
+   ],
+   "6": [
+    "GCGT",
+    "CTTGCTT"
+   ],
+   "7": [
+    "CGAT",
+    "CTTGCTT"
+   ],
+   "8": [
+    "GTAA",
+    "CTTGCTT"
+   ],
+   "9": [
+    "AGGG",
+    "CTTGCTT"
+   ],
+   "10": [
+    "GATG",
+    "CTTGCTT"
+   ],
+   "11": [
+    "TCAG",
+    "CTTGCTT"
+   ],
+   "12": [
+    "TGCG",
+    "CTTGCTT"
+   ]
+  },
+  "D": {
+   "1": [
+    "TAGGAA",
+    "TTCAGA"
+   ],
+   "2": [
+    "GCTCTA",
+    "TTCAGA"
+   ],
+   "3": [
+    "CCACAA",
+    "TTCAGA"
+   ],
+   "4": [
+    "CTTCCA",
+    "TTCAGA"
+   ],
+   "5": [
+    "GAGATA",
+    "TTCAGA"
+   ],
+   "6": [
+    "ATGCCT",
+    "TTCAGA"
+   ],
+   "7": [
+    "AGTGGA",
+    "TTCAGA"
+   ],
+   "8": [
+    "ACCTAA",
+    "TTCAGA"
+   ],
+   "9": [
+    "ATATGT",
+    "TTCAGA"
+   ],
+   "10": [
+    "ATCGTA",
+    "TTCAGA"
+   ],
+   "11": [
+    "CATCGT",
+    "TTCAGA"
+   ],
+   "12": [
+    "CGCGGT",
+    "TTCAGA"
+   ]
+  },
+  "H": {
+   "1": [
+    "CGCCTTAT",
+    "GCGT"
+   ],
+   "2": [
+    "AACCGAGA",
+    "GCGT"
+   ],
+   "3": [
+    "ACAGGGAA",
+    "GCGT"
+   ],
+   "4": [
+    "ACGTGGTA",
+    "GCGT"
+   ],
+   "5": [
+    "CCATGGGT",
+    "GCGT"
+   ],
+   "6": [
+    "CGCGGAGA",
+    "GCGT"
+   ],
+   "7": [
+    "CGTGTGGT",
+    "GCGT"
+   ],
+   "8": [
+    "GCTGTGGA",
+    "GCGT"
+   ],
+   "9": [
+    "GGATTGGT",
+    "GCGT"
+   ],
+   "10": [
+    "GTGAGGGT",
+    "GCGT"
+   ],
+   "11": [
+    "TATCGGGA",
+    "GCGT"
+   ],
+   "12": [
+    "TTCCTGGA",
+    "GCGT"
+   ]
+  }
+ }
+}
